@@ -100,6 +100,7 @@ if __name__ == '__main__':
     with open(QUERY_FILE_PATH, "r") as f:
         for query in f:
             query = query[0: query.find('\n') - 1]
+            print query
             queryID += 1
             doQuery(queryID, query, file)
     file.close()
