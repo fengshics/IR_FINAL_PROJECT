@@ -1,5 +1,7 @@
 __author__ = 'Vigery'
 
+import operator
+import math
 
 INDEXPATH = "unigram.txt"
 DOCUMENTLENGTHPATH = "document length.txt"
@@ -8,7 +10,6 @@ QUERY_FILE_PATH = "cacm_query_token.txt"
 N = 3204
 
 index = {}
-documentLength = {}
 nDictionary = {}
 
 def retrieveIndex():
@@ -32,27 +33,52 @@ def retrieveIndex():
             index[term] = documentList
             nDictionary[term] = n
 
-def retrieveDocumentLength():
-    global avg
-    file = open(DOCUMENTLENGTHPATH, "r")
-    for i in range(N):
-        s = file.readline().split(" ")
-        documentLength[s[0]] = int(s[1])
-    s = file.readline()
-    avg = int(s)
-    file.close()
 
+def parseQueryText(queryText):
+    queryDictionary = {}
+    for queryTerm in queryText.split(" "):
+        if queryTerm in queryDictionary:
+            queryDictionary[queryTerm] += 1
+        else:
+            queryDictionary[queryTerm] = 1
+    return queryDictionary
+
+def calculateTermScore(frequency, n):
+    tf = frequency
+    idf = math.log(N / (n * 1.0), 10)
+    return tf * idf
+
+def doQuery(queryID, queryText, file):
+    tfidf = {}
+    queryDictionary = parseQueryText(queryText)
+    for queryTerm in queryDictionary:
+        if queryTerm in index:
+            invertedList = index[queryTerm]
+        else:
+            continue
+        for documentID, frequency in invertedList:
+            termScore = calculateTermScore(frequency, len(invertedList))
+            if documentID in tfidf:
+                tfidf[documentID] += termScore
+            else:
+                tfidf[documentID] = termScore
+    sorted_scores = sorted(tfidf.items(), key=operator.itemgetter(1), reverse=True)
+    rank = 1
+    for documentID, score in sorted_scores:
+        queryID = '0' + str(queryID) if queryID < 10 else str(queryID)
+        file.write(queryID + " Q0 " + documentID + " " + str(rank) + " " + str(score) + " tf*idf\n")
+        rank += 1
+        if rank == 101:
+            break
 
 if __name__ == '__main__':
 
     # read index from previous file
     retrieveIndex()
-    # read document length information from previous file
-    #retrieveDocumentLength()
     # do the query
     queryID = 0
 
-    file = open("BM25.txt", "w")
+    file = open("tf-idf.txt", "w")
     with open(QUERY_FILE_PATH, "r") as f:
         for query in f:
             query = query[0: query.find('\n') - 1]
