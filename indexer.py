@@ -40,11 +40,11 @@ def indexer(path):
         fw.write(documentName + ' ' + str(len(tokens)) + '\n')
 
         termFrequencies = nltk.FreqDist(tokens)
-        for termFrequency in termFrequencies:
-            if termFrequency in unigram:
-                unigram[termFrequency].append( (documentName, termFrequencies[termFrequency]) )
+        for term, tf in termFrequencies.iteritems():
+            if term in unigram:
+                unigram[term].append( (documentName, tf) )
             else:
-                unigram[termFrequency] = [ (documentName, termFrequencies[termFrequency]) ]
+                unigram[term] = [ (documentName, tf) ]
         f.close()
     #fw.write(str(n) + ' ' + str(N) + ' ' + str(n / N) + '\n')
     fw.write(str(n / N) + '\n')
