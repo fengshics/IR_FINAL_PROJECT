@@ -65,7 +65,7 @@ def doQuery(queryID, queryText, file):
     sorted_scores = sorted(tfidf.items(), key=operator.itemgetter(1), reverse=True)
     rank = 1
     for documentID, score in sorted_scores:
-        queryID = '0' + str(queryID) if queryID < 10 else str(queryID)
+        queryID = str(queryID)
         file.write(queryID + " Q0 " + documentID + " " + str(rank) + " " + str(score) + " tf*idf\n")
         rank += 1
         if rank == 101:
@@ -84,5 +84,6 @@ if __name__ == '__main__':
             query = query[0: query.find('\n') - 1]
             queryID += 1
             doQuery(queryID, query, file)
+    f.close()
     file.close()
     pass
