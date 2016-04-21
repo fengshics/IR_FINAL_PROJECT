@@ -81,7 +81,7 @@ def doQuery(queryID, queryText, file):
     sorted_scores = sorted(BM25.items(), key=operator.itemgetter(1), reverse=True)
     rank = 1
     for documentID, score in sorted_scores:
-        queryID = '0' + str(queryID) if queryID < 10 else str(queryID)
+        queryID = str(queryID)
         file.write(queryID + " Q0 " + documentID + " " + str(rank) + " " + str(score) + " BM25\n")
         rank += 1
         if rank == 101:
