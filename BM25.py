@@ -6,6 +6,7 @@ import operator
 INDEXPATH = "unigram.txt"
 DOCUMENTLENGTHPATH = "document length.txt"
 QUERY_FILE_PATH = "cacm_query_token.txt"
+PRF_EXPANDED_QUERY_FILE_PATH = "expanded_queries_by_prf.txt"
 
 k1 = 1.2
 b = 0.75
@@ -99,6 +100,18 @@ if __name__ == '__main__':
     file = open("BM25.txt", "w")
     with open(QUERY_FILE_PATH, "r") as f:
         for query in f:
+            query = query[0: query.find('\n') - 1]
+            print query
+            queryID += 1
+            doQuery(queryID, query, file)
+    file.close()
+
+    queryID = 0
+    file = open("BM25_with_expansion_prf.txt", "w")
+    with open(PRF_EXPANDED_QUERY_FILE_PATH, "r") as f:
+        for query in f:
+            if query == '\n':
+                continue
             query = query[0: query.find('\n') - 1]
             print query
             queryID += 1
