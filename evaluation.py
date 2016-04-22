@@ -50,7 +50,7 @@ def calculateMeasure(fileName, queryResults):
     P20 = []
     fw = open(fileName, 'w')
     for queryID in queryResults:
-        fw.write('Query' + queryID + '\n')
+        #fw.write('Query' + queryID + '\n')
         psum = 0
         rr = 0
         results = queryResults[queryID]
@@ -78,7 +78,7 @@ def calculateMeasure(fileName, queryResults):
             if rank == 20:
                 P20.append(precision)
             recall = 0 if len(relevantDocuments) == 0 else relevantNumber / (len(relevantDocuments) * 1.0)
-            fw.write(str(rank) + ' ' + document + ' ' + str(isRelevant) + ' ' + str(precision) + ' ' + str(recall) + '\n')
+            fw.write(queryID + ' ' + document + ' ' + str(rank) + ' ' + str(isRelevant) + ' ' + str("{:.3f}".format(precision)) + ' ' + str("{:.3f}".format(recall)) + '\n')
         if relevantNumber != 0:
             AP.append(psum / (relevantNumber * 1.0))
         else:
