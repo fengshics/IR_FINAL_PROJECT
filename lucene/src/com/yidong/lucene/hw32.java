@@ -130,7 +130,7 @@ public class hw32 {
 	IndexReader reader = DirectoryReader.open(FSDirectory.open(new File(
 			indexLocation)));
 	IndexSearcher searcher = new IndexSearcher(reader);
-	PrintWriter writer = new PrintWriter("result/Lucene", "UTF-8");
+	PrintWriter writer = new PrintWriter("result/Lucene.txt", "UTF-8");
 	for (int i = 0; i < query.length; i++) {
 			TopScoreDocCollector collector = TopScoreDocCollector.create(100, true);
 			//PrintWriter writer = new PrintWriter("result/Lucene" + i, "UTF-8");
