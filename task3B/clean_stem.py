@@ -8,7 +8,7 @@ def createfile():
 		prefix = all_the_text[i].split("\n")[0]
 		filename = name[len(prefix)-1] + prefix+".html"
 		content = all_the_text[i][len(prefix):].strip()
-		file = open(filename,'w')
+		file = open("cacm_stem/"+filename,'w')
 		file.write(content)
 		file.close()
 		i += 1
