@@ -5,7 +5,7 @@ import os
 from bs4 import BeautifulSoup
 import string
 
-HTML_DOCUMENT_PATH = 'cacm/'
+HTML_DOCUMENT_PATH = 'cacm_stem/'
 INDEX_FILE_NAME = 'unigram.txt'
 DOCUMENT_LENGTH_PATH = 'document length.txt'
 
