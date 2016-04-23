@@ -4,10 +4,11 @@ from bs4 import BeautifulSoup
 import string
 import math
 
-HTML_DOCUMENT_PATH = '../../../Given_Corpus_Info/cacm/'
-RELEVANT_DOCUMENTS_SCORE_LIST_FILE_NAME = 'BM25_Ranking_With_Rel.txt'
-ORIGINAL_QUERIES_FILE_NAME = 'cacm_query_token.txt'
-EXPANDED_QUERIES_FILE_NAME = 'expanded_queries_by_prf.txt'
+HTML_DOCUMENT_PATH = '../../Given_Corpus_Info/cacm/'
+RELEVANT_DOCUMENTS_SCORE_LIST_FILE_NAME = 'BM25_with_rel_stopping.txt'
+ORIGINAL_QUERIES_FILE_NAME = 'cacm_query_tokens_stopped.txt'
+EXPANDED_QUERIES_FILE_NAME = 'expanded_queries_by_prf_stopped.txt'
+COMMON_WORDS_FILENAME = '../../Given_Corpus_Info/common_words.txt'
 RELEVANT_TOP_DOCUMENTS_K = 5
 RELEVANT_TOP_TERMS_K = 10
 
@@ -22,6 +23,22 @@ def tokenize(rawHtml):
     tokens = filter(lambda a: a != "``", tokens)
     # remove '' manually
     tokens = filter(lambda a: a != "''", tokens)
+    return tokens
+
+def retrieveCommonWords():
+    stopWordsList = []
+    with open(COMMON_WORDS_FILENAME, 'r') as f:
+        for stopRecord in f:
+            if stopRecord == '\n':
+                continue
+            stopWordsList.append(stopRecord.strip())
+
+    return stopWordsList
+
+
+def removeStoppingWords(tokens):
+    stopWordsList = retrieveCommonWords()
+    tokens = filter(lambda a: a not in stopWordsList, tokens)
     return tokens
 
 def retrieveOriginalQueryTokens():
@@ -72,6 +89,7 @@ def indexDocuments(docList):
 	for docId in docList:
 		with open(HTML_DOCUMENT_PATH + docId + '.html', 'r') as f:
 			tokens = tokenize(f.read())
+			tokens = removeStoppingWords(tokens)
 			termFrequencies = nltk.FreqDist(tokens)
 			for term, tf in termFrequencies.iteritems():
 				if term.isdigit():
