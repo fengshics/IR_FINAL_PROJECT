@@ -1,0 +1,148 @@
+1 Q0 CACM-1410 1 30.4359933502 BM25
+Snippet: general-purpose Time-Sharing System (TSS). The input process is assumed to be stationary, and to be defined by the interarrival time
+Highlight words: System TSS time 
+1 Q0 CACM-1605 2 25.9036617188 BM25
+Snippet: obtained for six variables (e.g., programmer time, computer time, elapsed time, etc.) which were considered to be definitive of "system
+Highlight words: for time time time which system 
+1 Q0 CACM-3025 3 25.4838929745 BM25
+Snippet: requirements, and user developments. The PDP-10's contributions to computing technology include: accelerating the transition from batch oriented to time sharing
+Highlight words: time sharing 
+1 Q0 CACM-2380 4 21.4432218255 BM25
+Snippet: TENEX, a Paged Time Sharing System for the PDP-10 TENEX is a new time sharing system implemented on DEC PDP-10
+Highlight words: Time Sharing System for time sharing system 
+1 Q0 CACM-1572 5 19.0751094427 BM25
+Snippet: Simulation of Time sharing Systems The development of new large scale time-sharing systems has raised a number of problems for
+Highlight words: Time sharing for 
+1 Q0 CACM-1805 6 18.8592041008 BM25
+Snippet: D. J. productivity, prediction, multiprogramming, simulation, equipment evaluation, hardware, evaluation, monitor, operating system, system software, supervisors, performance, time sharing, time
+Highlight words: operating system system time sharing time 
+1 Q0 CACM-1506 7 18.2590054751 BM25
+Snippet: that it could work with a small computer (an IBM System 360/30). Therefore techniques for resource allocation were important. For
+Highlight words: with an IBM System for For 
+1 Q0 CACM-0585 8 17.8456968836 BM25
+Snippet: of self-searching input and output to the automatic time sharing of independently coded problems. Several important machine and program system
+Highlight words: time sharing system 
+1 Q0 CACM-2358 9 17.7827913822 BM25
+Snippet: to share information among system users has become increasingly apparent. Many contemporary systems permit some degree of sharing. Usually, sharing
+Highlight words: system sharing sharing 
+1 Q0 CACM-2379 10 17.4216043433 BM25
+Snippet: The Design of the Venus Operating System The Venus Operating System is an experimental multiprogramming system which supports five or
+Highlight words: Operating System Operating System an system which 
+1 Q0 CACM-1408 11 17.1678151305 BM25
+Snippet: it has more general applicability. The question of the efficacy of the drum scheme is then raised. To deal with
+Highlight words: deal with 
+1 Q0 CACM-1792 12 16.4598463368 BM25
+Snippet: E. online vs. off line performance, programmer/computer communication, programming experimental-empirical studies, programming cost effectiveness, programming performance, debugging effectiveness, time sharing
+Highlight words: time sharing 
+1 Q0 CACM-2624 13 15.6700339216 BM25
+Snippet: test whether such an architecture can support virtual machines. CACM July, 1974 Popek, G. J. Goldberg, R. P. operating system,
+Highlight words: an operating system 
+1 Q0 CACM-2424 14 15.4940843269 BM25
+Snippet: continuous availability, data privacy, and cost effectiveness. The technique of dynamic verification allows the construction of an operating system which
+Highlight words: an operating system which 
+1 Q0 CACM-1519 15 15.463928863 BM25
+Snippet: GEORGE 3-A General Purpose Time Sharing and Operating System An Operating System is described which will run on a wide
+Highlight words: Time Sharing Operating System An Operating System which 
+1 Q0 CACM-2188 16 15.4095977614 BM25
+Snippet: or simulation to obtain an average response time prediction. By combining the model with an optimization, the best graphics system
+Highlight words: an time with an system 
+1 Q0 CACM-1844 17 15.2379794118 BM25
+Snippet: Modular Computer Sharing System An alternative approach to the design and organization of a general purpose interactive multiterminal computing system
+Highlight words: Sharing System An system 
+1 Q0 CACM-1526 18 15.0674064796 BM25
+Snippet: by the average usage of the CPU) when user programs are typical of those arising from an interactive time sharing
+Highlight words: an time sharing 
+1 Q0 CACM-1750 19 14.6305072535 BM25
+Snippet: S. multiple computer systems, extended core storage, multiprogrammed operating systems, multiprocessor operating systems, control data corporation 6600, operating system with
+Highlight words: operating operating operating system with 
+1 Q0 CACM-2951 20 14.5941183137 BM25
+Snippet: Dynamic Response Time Prediction for Computer Networks If the ultimate aim of a computing network is resource sharing, then the
+Highlight words: Time for sharing 
+1 Q0 CACM-2319 21 14.1423807903 BM25
+Snippet: gaps still exist in out knowledge. Because of the severe interactions between the various subsystems of an operating system, an
+Highlight words: exist an operating system an 
+1 Q0 CACM-1753 22 14.1329136332 BM25
+Snippet: Virtual Memory, Processes, and Sharing in MULTICS Some basic concepts involved in the design of the MULTICS operating system are
+Highlight words: Sharing operating system 
+1 Q0 CACM-2946 23 13.8349197878 BM25
+Snippet: the problem of information streams sharing a finite buffer pool. CACM July, 1977 Kessels, J. L. W. monitor, operating system,
+Highlight words: sharing operating system 
+1 Q0 CACM-1829 24 13.4356740786 BM25
+Snippet: University for the CDC G21 computer, which is a general purpose, batch-processing system with remote entry. The existing G21 system
+Highlight words: for which system with system 
+1 Q0 CACM-2054 25 13.3244442882 BM25
+Snippet: time it is both economically and logically feasible to handle at least 40 users at a time with an IBM
+Highlight words: time time with an IBM 
+1 Q0 CACM-2632 26 13.2337754089 BM25
+Snippet: Kernel of a Multiprocessor Operating System This paper describes the design philosophy of HYDRA-the kernel of an operating system for
+Highlight words: Operating System an operating system for 
+1 Q0 CACM-2370 27 13.1937972169 BM25
+Snippet: and display system has been in operation at the IBM Thomas J. Watson Research Center for three years. The system
+Highlight words: system IBM for system 
+1 Q0 CACM-3127 28 12.9383357467 BM25
+Snippet: Thoth, a Portable Real-Time Operating System Thoth isa real-time operating system which is designed to be portable over a large
+Highlight words: Operating System operating system which 
+1 Q0 CACM-1518 29 12.8749278834 BM25
+Snippet: software, and its environment. The measures of system performance produced by the model consist of statistics relating to turnaround time,
+Highlight words: system time 
+1 Q0 CACM-1033 30 12.7740643653 BM25
+Snippet: to enter any statement for immediate execution. Present implementation of the system is with an interpretive translator on an IBM
+Highlight words: for system with an an IBM 
+1 Q0 CACM-2357 31 12.711740422 BM25
+Snippet: on-line system operating as part of a normal batch system for the CDC 6600 computer is described. The system, which
+Highlight words: system operating system for system which 
+1 Q0 CACM-1542 32 12.6371981964 BM25
+Snippet: System/360 Model 30 An experimental processing system for the algorithmic language EULER has been implemented in microprogramming on an IBM
+Highlight words: An system for an IBM 
+1 Q0 CACM-0322 33 12.4971007689 BM25
+Snippet: the computer for each system as required. The following set of conventions is being considered to minimize computer set-up time.
+Highlight words: for system time 
+1 Q0 CACM-2989 34 12.4197188072 BM25
+Snippet: of the time? Most of the time? What would the overhead be if the number of registers were reduced? What
+Highlight words: time time What What 
+1 Q0 CACM-3002 35 12.3618137724 BM25
+Snippet: the optimization of library routines' storage at a large scale operating system. CACM January, 1977 Babad, J. M. file system,
+Highlight words: operating system system 
+1 Q0 CACM-1749 36 12.355769107 BM25
+Snippet: E. W. operating system, multiprogramming system, system hierarchy, system structure, real-time debugging, program verification, synchronizing primitives, cooperating sequential processes, system
+Highlight words: operating system system system system system 
+1 Q0 CACM-0971 37 12.3402916592 BM25
+Snippet: Time Sharing in a Traffic Control Program The Toronto traffic signal control system consists of a variety of logically distinct
+Highlight words: Time Sharing system 
+1 Q0 CACM-2003 38 12.3219811445 BM25
+Snippet: An Interactive Software System for Computers-Aided Design: An Application to Circuit Project The characteristics of an interactive software system, intended
+Highlight words: An System for An an system 
+1 Q0 CACM-2947 39 12.2592307666 BM25
+Snippet: An Interactive Text Processing System for Small Computers SITAR, a low-cost in teractive text handling and text analysis system for
+Highlight words: An System for Computers system for 
+1 Q0 CACM-1523 40 12.2176438186 BM25
+Snippet: a Time Sharing System for the CDC 6600 A time sharing system embedded within the standard batch processing system for
+Highlight words: Time Sharing System for time sharing system system for 
+1 Q0 CACM-1315 41 12.1542003974 BM25
+Snippet: fully automated computer system in January, 1963. The program for purchased radioisotopes is written in FORMAT FORTRAN for the IBM
+Highlight words: system for for IBM 
+1 Q0 CACM-0854 42 12.0642469397 BM25
+Snippet: true in the case of sorting. In a tape-oriented system, the major sorting problem is that of minimizing merge time
+Highlight words: system time 
+1 Q0 CACM-1938 43 11.9478601905 BM25
+Snippet: systems which permit a terminal user to utilize essentially the full resources of the system while sharing its time with
+Highlight words: which system sharing time with 
+1 Q0 CACM-1341 44 11.7674991566 BM25
+Snippet: the usefulness of future systems, particularly with regard to such trends as time sharing, parallel programming, and, eventually, systems which
+Highlight words: with time sharing which 
+1 Q0 CACM-1544 45 11.7611815866 BM25
+Snippet: Tele-CUPL: A Telephone Time Sharing System A general purpose, remote access, computing system is described, that employs twelve-key keyboard telephones
+Highlight words: Time Sharing System system 
+1 Q0 CACM-2950 46 11.7577108567 BM25
+Snippet: of such an implementation CACM July, 1977 Ruschitzka, M. Fabry, R. S. scheduling algorithms, scheduling models, priority, operating systems,processor sharing,
+Highlight words: an operating sharing 
+1 Q0 CACM-2626 47 11.7299485825 BM25
+Snippet: Control of Information Sharing in Multics The design of mechanisms to control the sharing of information in the Multics system
+Highlight words: Sharing sharing system 
+1 Q0 CACM-2621 48 11.6662151338 BM25
+Snippet: modulus are superior to one-way ciphers derived from Sannon codes. CACM August, 1974 Purdy, G. B. operating systems, time sharing
+Highlight words: operating time sharing 
+1 Q0 CACM-1699 49 11.6473779038 BM25
+Snippet: that an information retrieval system that provides for man-machine dialogue at a remote inquiry terminal should provide a searcher with
+Highlight words: an system for with 
+1 Q0 CACM-1960 50 11.6135969363 BM25
