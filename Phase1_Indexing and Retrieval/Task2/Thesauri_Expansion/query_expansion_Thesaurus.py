@@ -7,7 +7,7 @@ querys = []
 
 def thesauri(word):
 	global word_dic
-	response = unirest.post("http://words.bighugelabs.com/api/2/3860582800f5f2199b526d710f4509b1/"+word+"/json")
+	response = unirest.post("http://words.bighugelabs.com/api/2/cacbd5c7037f0cc536df9fcd22682b95/"+word+"/json")
 	a = response.body
 	i = 0
 	if a !="":
@@ -27,6 +27,7 @@ def readfile():
 			word_dic[word] = []
 	for key in word_dic:
 		thesauri(key)
+	file_object.close()
 
 def get_querys():
 	global querys
@@ -36,6 +37,8 @@ def get_querys():
 	for query in querys:
 		query_process(query,i)
 		i += 1
+	file_object.close()
+	saveExpandedQueries()
 
 def query_process(query,index):
 	global word_dic
@@ -48,6 +51,13 @@ def query_process(query,index):
 				querys[index] =querys[index] + word_dic[word][j]+" "
 				j += 1
 	print querys[index]
+
+def saveExpandedQueries():
+	global querys
+	with open("expanded_queries_Thesaurus.txt", "w") as f:
+		for i in range(0, 64):
+			f.write(querys[i] + '\n')
+
 		
 
 if __name__ == '__main__':

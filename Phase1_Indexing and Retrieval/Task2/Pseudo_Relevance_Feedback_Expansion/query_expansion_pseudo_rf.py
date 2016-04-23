@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import string
 import math
 
-HTML_DOCUMENT_PATH = 'cacm/'
-RELEVANT_DOCUMENTS_SCORE_LIST_FILE_NAME = 'BM25_With_Rel.txt'
+HTML_DOCUMENT_PATH = '../../../Given_Corpus_Info/cacm/'
+RELEVANT_DOCUMENTS_SCORE_LIST_FILE_NAME = 'BM25_Ranking_With_Rel.txt'
 ORIGINAL_QUERIES_FILE_NAME = 'cacm_query_token.txt'
 EXPANDED_QUERIES_FILE_NAME = 'expanded_queries_by_prf.txt'
 RELEVANT_TOP_DOCUMENTS_K = 10

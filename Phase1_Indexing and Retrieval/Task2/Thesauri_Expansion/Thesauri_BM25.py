@@ -5,10 +5,10 @@ from bs4 import BeautifulSoup
 import string
 
 INDEXPATH = "../../../Given_Corpus_Info/unigram.txt"
-DOCUMENTLENGTHPATH = "document length.txt"
+DOCUMENTLENGTHPATH = "document_length.txt"
 QUERY_FILE_PATH = "cacm_query_token.txt"
 REL_JUDGEMENTS_FILE_NAME = "../../../Given_Corpus_Info/cacm.rel.txt"
-CACM_RAW_FILES_PATH = "../../../Given_Corpus_Info/cacm/"
+THESAURI_EXPANDED_QUERY_FILE_PATH = "expanded_queries_Thesaurus.txt"
 
 k1 = 1.2
 b = 0.75
@@ -41,17 +41,9 @@ def getRi(queryTerm, queryId):
     invertedList = index[queryTerm]
     count = 0
     for relDocId in relDocList:
-        """
-        found = False
-        for docId, tf in index[queryTerm]:
-            if docId == relDocId:
-                found = True
-                break
-        if found:
-            count += 1
-        """
         if relDocId in simpleIndex[queryTerm]:
             count += 1
+    #print str(queryId) + queryTerm + str(count)
     return count
 
 def getR(queryId):
@@ -72,6 +64,8 @@ def retrieveRelevanceInfo():
                 relevanceDict[queryId].append(relDocId)
             else:
                 relevanceDict[queryId] = [relDocId]
+
+    print relevanceDict
 
 def retrieveIndex():
     with open(INDEXPATH, "r") as f:
@@ -141,10 +135,10 @@ def doQuery(queryID, queryText, file):
         if not index.has_key(queryTerm):
             continue
         invertedList = index[queryTerm]
+        R = getR(queryID)
+        ri = getRi(queryTerm, queryID)
         for documentID, frequency in invertedList:
             #termScore = calculateTermScore(documentID, frequency, queryDictionary[queryTerm], queryTerm)
-            R = getR(queryID)
-            ri = getRi(queryTerm, queryID)
             termScore = calculateBM25LScore(queryDictionary[queryTerm], frequency, documentLength[documentID], ri, R, nDictionary[queryTerm])
             if documentID in BM25:
                 BM25[documentID] += termScore
@@ -168,12 +162,13 @@ if __name__ == '__main__':
     # read relevance judgements
     retrieveRelevanceInfo()
     # do the query
-    
-    queryID = 0
 
-    file = open("BM25_Ranking_With_Rel.txt", "w")
-    with open(QUERY_FILE_PATH, "r") as f:
+    queryID = 0
+    file = open("Thesauri_BM25_Ranking_Result/BM25_with_expansion_thesauri.txt", "w")
+    with open(THESAURI_EXPANDED_QUERY_FILE_PATH, "r") as f:
         for query in f:
+            if query == '\n':
+                continue
             query = query[0: query.find('\n') - 1]
             print query
             queryID += 1
