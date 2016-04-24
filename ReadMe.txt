@@ -86,7 +86,17 @@ Phase 2, Combine query expansion with pseudo relevance feedback with stopping ba
 7. RUN PRF_Expansion_Stopping_BM25.py
 8. Ranking result is stored in “Combine_query_expansion_stopping_BM25_Ranking_result” folder.
 
+Evaluation:
+1. Go to “Phase2_Evaluation” folder
+2. Go to "Evaluation" folder
+3. Run evaluation.py
+4. Evaluation results are stored in "Evaluation Results" folder
 
+Extra Credit: Snippet and Highlighting
+1. Go to "Extra Credit_Snippet and Highlighting" folder
+2. Run snippet&highlighting.py
+3. New 8 run results are stored in "Snippet and Highlighting Result" folder.
+Note since running this part is very time-cosuming, we have another "Snippet and Highlighting Result Backup" folder to show us original results in case the old one deleted by accident.
 
 
 

@@ -1,0 +1,2100 @@
+1 Q0 CACM-3127 1 10.9575951676 BM25
+Snippet: Thoth, a Portable Real-Time Operating System Thoth isa real-time operating system which is designed to be portable over a large
+Highlight words: Operating System operating system which 
+1 Q0 CACM-2246 2 8.77930704375 BM25
+Snippet: Levels of Language for Portable Software An increasing amount of software is being implemented in a portable form. A popular
+Highlight words: for An 
+1 Q0 CACM-3196 3 8.60439650888 BM25
+Snippet: The Reactive Typewriter Program 84-character keyboard including alphabetical upper and lower case for good readability. If the machine is restricted
+Highlight words: for 
+1 Q0 CACM-2593 4 7.29088998605 BM25
+Snippet: and returns results. The advantages of such a configuration are discussed. An experimental implementation, called the experimental Data Management System,
+Highlight words: An System 
+1 Q0 CACM-1930 5 6.78031266985 BM25
+Snippet: an algorithm that meets requirements of this sort. An extremely portable 8-line FORTRAN program is provided which based on an
+Highlight words: an An which an 
+1 Q0 CACM-1591 6 4.37346303069 BM25
+Snippet: teaching. The teaching system (ABAC-II) was written to run under the operating system (IBSYS) for the IBM 7044 Graphic System.
+Highlight words: system operating system for IBM System 
+1 Q0 CACM-1680 7 4.36738188347 BM25
+Snippet: and the IBM 2250 display Unit under Operating System/360. Adept is a cataloged program that controls the standard operating system
+Highlight words: IBM Operating operating system 
+1 Q0 CACM-3068 8 4.28802278084 BM25
+Snippet: operating systems. This model is suitable as a basis for verifying many of those properties of an operating system which
+Highlight words: operating for an operating system which 
+1 Q0 CACM-1033 9 4.24980769089 BM25
+Snippet: to enter any statement for immediate execution. Present implementation of the system is with an interpretive translator on an IBM
+Highlight words: for system with an an IBM 
+1 Q0 CACM-1236 10 4.23834773279 BM25
+Snippet: Automatic Document Retrieval System-An Illustration A fully automatic document retrieval system operating on the IBM 7094 is described. The system
+Highlight words: system operating IBM system 
+1 Q0 CACM-2740 11 4.20834803849 BM25
+Snippet: A Large Semaphore Based Operating System The paper describes the internal structure of a large operating system as a set
+Highlight words: Operating System operating system 
+1 Q0 CACM-1750 12 4.18930006764 BM25
+Snippet: S. multiple computer systems, extended core storage, multiprogrammed operating systems, multiprocessor operating systems, control data corporation 6600, operating system with
+Highlight words: operating operating operating system with 
+1 Q0 CACM-1534 13 4.13355114004 BM25
+Snippet: The C. Operating System The design and implementation of the C. operating system, DAD, is described in detail. This system
+Highlight words: Operating System operating system system 
+1 Q0 CACM-2424 14 4.11641718365 BM25
+Snippet: continuous availability, data privacy, and cost effectiveness. The technique of dynamic verification allows the construction of an operating system which
+Highlight words: an operating system which 
+1 Q0 CACM-2379 15 4.10737027346 BM25
+Snippet: The Design of the Venus Operating System The Venus Operating System is an experimental multiprogramming system which supports five or
+Highlight words: Operating System Operating System an system which 
+1 Q0 CACM-1519 16 4.10100296307 BM25
+Snippet: GEORGE 3-A General Purpose Time Sharing and Operating System An Operating System is described which will run on a wide
+Highlight words: Time Sharing Operating System An Operating System which 
+1 Q0 CACM-2357 17 4.09396751255 BM25
+Snippet: on-line system operating as part of a normal batch system for the CDC 6600 computer is described. The system, which
+Highlight words: system operating system for system which 
+1 Q0 CACM-2920 18 4.06738445124 BM25
+Snippet: resources, operating system, etc., of the "safe situations" which may be realized without endangering the smooth running of the system.
+Highlight words: operating system which system 
+1 Q0 CACM-0585 19 4.05905222751 BM25
+Snippet: of self-searching input and output to the automatic time sharing of independently coded problems. Several important machine and program system
+Highlight words: time sharing system 
+1 Q0 CACM-2629 20 4.05348493032 BM25
+Snippet: UNIX Time-Sharing system UNIX is a general-purpose, multi-user, interactive operating system for the Digital Equipment Corporation PDP-11/40 and 11/45 computers.
+Highlight words: system operating system for computers 
+1 Q0 CACM-2153 21 4.05330476637 BM25
+Snippet: Experiments with an Automated Instructional System for Numerical Methods A computer system was developed at Purdue University to teach portions
+Highlight words: with an System for system 
+1 Q0 CACM-1461 22 4.04501045358 BM25
+Snippet: 
+Highlight words: 
+1 Q0 CACM-2064 23 4.04165193054 BM25
+Snippet: For many sophisticated applications this restriction can impose cumbersome data representations. An efficient system has been devised and implemented which
+Highlight words: For An system which 
+1 Q0 CACM-1472 24 4.03495175677 BM25
+Snippet: Capacity, Fast Turnaround University Computing Center The operating system for the UNIVAC 1107 at Case Institute is reviewed. The system
+Highlight words: operating system for system 
+1 Q0 CACM-2798 25 4.0347630183 BM25
+Snippet: simulations investigate the performance of various system structures, i.e. schemes for sending instruction and data requests to the memory system.
+Highlight words: system for system 
+1 Q0 CACM-0322 26 4.02895161435 BM25
+Snippet: the computer for each system as required. The following set of conventions is being considered to minimize computer set-up time.
+Highlight words: for system time 
+1 Q0 CACM-2319 27 4.02585789378 BM25
+Snippet: gaps still exist in out knowledge. Because of the severe interactions between the various subsystems of an operating system, an
+Highlight words: exist an operating system an 
+1 Q0 CACM-2541 28 4.01436009143 BM25
+Snippet: of the ISPL Computer System Design This paper explores the advantages of the concurrent design of the language, operating system,
+Highlight words: System operating system 
+1 Q0 CACM-3025 29 3.99987760115 BM25
+Snippet: requirements, and user developments. The PDP-10's contributions to computing technology include: accelerating the transition from batch oriented to time sharing
+Highlight words: time sharing 
+1 Q0 CACM-2372 30 3.99413155194 BM25
+Snippet: existing systems, and serves as a framework for a proposal for general security system implementation within today's languages and operating
+Highlight words: for for system operating 
+1 Q0 CACM-0972 31 3.98335370239 BM25
+Snippet: system is divided into an Executive Control Program and five components with different processing priorities. These priorities permit the system
+Highlight words: system an with system 
+1 Q0 CACM-2092 32 3.98229063563 BM25
+Snippet: and exemplified in detail. The system is written in LISP 1.5 and operates on the Q-32 time-sharing system. The system's
+Highlight words: system system system 
+1 Q0 CACM-1264 33 3.97133698246 BM25
+Snippet: BLNSYS-A 1401 Operating System with Braille Capabilities BLNSYS is an operating system designed for a 4K 1401 with common optional
+Highlight words: Operating System with an operating system for with 
+1 Q0 CACM-2735 34 3.9681605742 BM25
+Snippet: 
+Highlight words: 
+1 Q0 CACM-1755 35 3.9659227193 BM25
+Snippet: Proceedings of the ACM Symposium on Operating system Principles CACM May, 1968 ACM Special Interest Committee CA680501 JB February 23,
+Highlight words: Operating system 
+1 Q0 CACM-1108 36 3.94972274291 BM25
+Snippet: the tracker system. The system basically consists of an optical sensor, digital computer and tracker drive mechanism. The three system
+Highlight words: system system an system 
+1 Q0 CACM-1247 37 3.94786849186 BM25
+Snippet: paper is a brief nontechnical introduction to OEDIPUS, a computer programming system which can serve as an operating environment for
+Highlight words: system which an operating for 
+1 Q0 CACM-1168 38 3.94021093135 BM25
+Snippet: in COBOL is described. The COBOL language was used specifically to enable the system to operate on three IBM computers.
+Highlight words: system IBM computers 
+1 Q0 CACM-1912 39 3.9112694932 BM25
+Snippet: Simulation of Outpatient Appointment Systems An experimental computer program is described which simulates appointment systems employed by outpatient departments of
+Highlight words: An which 
+1 Q0 CACM-1657 40 3.90643741674 BM25
+Snippet: improved version of the SHARER time-sharing system using this feature is described. CACM December, 1968 Harrison, M. C. operating system,
+Highlight words: system operating system 
+1 Q0 CACM-1462 41 3.90210335325 BM25
+Snippet: Multilevel Operating Systems The Basic software for all newer computers is built on the well-established need for standard operating systems.
+Highlight words: Operating for computers for operating 
+1 Q0 CACM-3089 42 3.88633081752 BM25
+Snippet: Failures A mathematical model of a transaction-oriented system under intermittent failures is proposed. The system is assumed to operate with
+Highlight words: system system with 
+1 Q0 CACM-2378 43 3.88598236388 BM25
+Snippet: An Operating System Based on the Concept of a Supervisory Computer An operating system which is organized as a small
+Highlight words: An Operating System An operating system which 
+1 Q0 CACM-1071 44 3.87801416746 BM25
+Snippet: of computer time and storage space that a user actually utilizes. The various cost factors which should be considered for
+Highlight words: time which for 
+1 Q0 CACM-2796 45 3.87126783126 BM25
+Snippet: Monitors: An Operating System Structuring Concept (Corrigendum) CACM February, 1975 Hoare, C. A. R. CA750203 JB January 12, 1978 8:45
+Highlight words: An Operating System 
+1 Q0 CACM-3137 46 3.8635865997 BM25
+Snippet: using an information system from the perspective of the end-user. The making evident the effect of various design and operating
+Highlight words: an system operating 
+1 Q0 CACM-0252 47 3.86025089474 BM25
+Snippet: duplex-computer programming that has been used with two computers in a military defense system. The method combines special programs with
+Highlight words: with computers system with 
+1 Q0 CACM-1034 48 3.85768531153 BM25
+Snippet: long span of time between project inception and system operational date, the lack of explicit directions for conducting data system
+Highlight words: time system for system 
+1 Q0 CACM-1752 49 3.85632802937 BM25
+Snippet: Resource Management for a Medium Scale Time-Sharing Operating system Task scheduling and resource balancing for a medium size virtual memory
+Highlight words: for Operating system for 
+1 Q0 CACM-1652 50 3.85541572595 BM25
+Snippet: computer system with respect to non-numeric applications, and to maximize the transfer rate of the information channel linking the system
+Highlight words: system with system 
+1 Q0 CACM-2065 51 3.85210089038 BM25
+Snippet: the software for a computer-display system is given with special emphasis on the man-machine interaction. This system is intended for
+Highlight words: for system with system for 
+1 Q0 CACM-2219 52 3.8464878417 BM25
+Snippet: A Policy-Driven Scheduler for a Time-Sharing System The service received by a process from a time-sharing operating system can be
+Highlight words: for System operating system 
+1 Q0 CACM-1163 53 3.84548838475 BM25
+Snippet: most of the effort formerly required to reprogram Philco 2000 series codes for IBM 7094 operation. Experience with this system
+Highlight words: for IBM with system 
+1 Q0 CACM-2950 54 3.84388047129 BM25
+Snippet: of such an implementation CACM July, 1977 Ruschitzka, M. Fabry, R. S. scheduling algorithms, scheduling models, priority, operating systems,processor sharing,
+Highlight words: an operating sharing 
+1 Q0 CACM-2482 55 3.83765359463 BM25
+Snippet: a method, based on the concept of the hierarchical operating system, for constructing appropriate mixtures and suggests appropriate subsystems for
+Highlight words: operating system for for 
+1 Q0 CACM-2597 56 3.83330127989 BM25
+Snippet: Operating System Structuring Concept This paper develops Brinch-Hansen's concept of a monitor as a method of structuring an operating system.
+Highlight words: Operating System an operating system 
+1 Q0 CACM-1938 57 3.83285309463 BM25
+Snippet: systems which permit a terminal user to utilize essentially the full resources of the system while sharing its time with
+Highlight words: which system sharing time with 
+1 Q0 CACM-1902 58 3.821055989 BM25
+Snippet: Scheme for Simple Programming Exercises A discussion is given of alterations that were made to a typical university operating system
+Highlight words: for operating system 
+1 Q0 CACM-2868 59 3.81498603271 BM25
+Snippet: Reflections on an Operating System Design The main features of a general purpose multiaccess operating system developed for the CDC
+Highlight words: an Operating System operating system for 
+1 Q0 CACM-2399 60 3.81276390858 BM25
+Snippet: System A test-editing and manipulation program is described. The program operates from low-cost cathode-ray tube entry and display stations with
+Highlight words: System with 
+1 Q0 CACM-0202 61 3.8078986755 BM25
+Snippet: System For Logical Block Diagnosis With Data Loading This paper describes a section of an integrated diagnostic monitor system which
+Highlight words: System For With an system which 
+1 Q0 CACM-1923 62 3.80628551425 BM25
+Snippet: for programs to communicate with deeply embedded facilities such as command language processors. CACM March, 1969 Rosin, R. F. operating
+Highlight words: for with operating 
+1 Q0 CACM-2622 63 3.80414533271 BM25
+Snippet: operating systems a user authenticates himself by entering a secret password known solely to himself and the system. The system
+Highlight words: operating system system 
+1 Q0 CACM-2632 64 3.80399895437 BM25
+Snippet: Kernel of a Multiprocessor Operating System This paper describes the design philosophy of HYDRA-the kernel of an operating system for
+Highlight words: Operating System an operating system for 
+1 Q0 CACM-2697 65 3.79686047105 BM25
+Snippet: using real arithmetic. This fact is exploited to reduce the number of floating-point operations required to solve a linear system
+Highlight words: system 
+1 Q0 CACM-1853 66 3.79663162011 BM25
+Snippet: system are described. Finally, consideration is given to those design factors essential to the success of a plex processing system
+Highlight words: system system 
+1 Q0 CACM-3023 67 3.79458662883 BM25
+Snippet: error handling, and input/output operations. A final section tabulates some of the important parameters of the various IBM machines which
+Highlight words: IBM which 
+1 Q0 CACM-2681 68 3.79008854547 BM25
+Snippet: of the system is degraded. Alternative approaches to repacking are discussed, and the operating conditions that lead to improved system
+Highlight words: system operating system 
+1 Q0 CACM-1747 69 3.78336445366 BM25
+Snippet: systems design, input equipment, input equipment design, operating systems, operating systems design, multiprogramming, multiprogrammed systems, multiprogrammed system design, virtual computers,
+Highlight words: operating operating system computers 
+1 Q0 CACM-3174 70 3.77770548313 BM25
+Snippet: on a remotely accessed time-sharing system. The present design was the result of countering observed attempts to penetrate the system.
+Highlight words: system system 
+1 Q0 CACM-2621 71 3.77770548313 BM25
+Snippet: modulus are superior to one-way ciphers derived from Sannon codes. CACM August, 1974 Purdy, G. B. operating systems, time sharing
+Highlight words: operating time sharing 
+1 Q0 CACM-3087 72 3.77236495316 BM25
+Snippet: this system is described and illustrated with detailed examples of the operation of system components and examples of overall system
+Highlight words: system with system system 
+1 Q0 CACM-1226 73 3.76778109788 BM25
+Snippet: file can be critical to the system's operating efficiency. This paper provides the systems designer with an information source which
+Highlight words: system operating with an which 
+1 Q0 CACM-1766 74 3.75631484225 BM25
+Snippet: eigenvalues, the values of the unknown constants are estimated. A precise formulation is provided, and an effective numerical procedure for
+Highlight words: an for 
+1 Q0 CACM-1195 75 3.75475366734 BM25
+Snippet: operational for processing the National Aeronautics and Space Administration linear file system on an IBM 1401-7090 combined data processing system.
+Highlight words: for system an IBM system 
+1 Q0 CACM-2105 76 3.74438761816 BM25
+Snippet: Computer System Using Graphical Flowchart Input An interactive computer system operational on a graphical computer terminal is described. This system
+Highlight words: System An system system 
+1 Q0 CACM-1951 77 3.74267634444 BM25
+Snippet: exponential distribution are discussed for the systems studied. CACM December 1970 Fuchs, E. Jackson, P. E. computer communications, time-sharing, operating
+Highlight words: for operating 
+1 Q0 CACM-2069 78 3.72856244315 BM25
+Snippet: and Mason CACM April, 1970 Heess Jr., W. F. page-on-demand, demand paging, time-sharing multiprogramming, Markovian computer models, scheduling strategies, operating
+Highlight words: operating 
+1 Q0 CACM-2840 79 3.72208349444 BM25
+Snippet: fact are discussed. CACM August, 1976 Harrison, M. A. Ruzzo, W. L. Ullman, J. D. protection, protection system, operating system,
+Highlight words: system operating system 
+1 Q0 CACM-2320 80 3.71676651506 BM25
+Snippet: only within operating systems but also within user programs. CACM July, 1972 Hansen, P. B. structured multiprogramming, programming languages, operating
+Highlight words: operating operating 
+1 Q0 CACM-1533 81 3.71245804254 BM25
+Snippet: University of Michigan Executive System A mathematical model of a computer's executive system is postulated and its parameters estimated with
+Highlight words: System system with 
+1 Q0 CACM-3090 82 3.70946675025 BM25
+Snippet: Automated Welfare Client-Tracking and Service Integration: The Political Economy of Computing The impacts of an automated client-tracking system on the
+Highlight words: an system 
+1 Q0 CACM-2536 83 3.70715660199 BM25
+Snippet: with emphasis on the main processor-minicomputer link, the hardware-software implementation, the effect of the main processor operating system, and an
+Highlight words: with operating system an 
+1 Q0 CACM-2867 84 3.70624279138 BM25
+Snippet: a Family of Operating Systems This paper describes the design philosophy used in the construction of a family of operating
+Highlight words: Operating operating 
+1 Q0 CACM-2317 85 3.70612126463 BM25
+Snippet: greatly to a better understanding of operating system principles. Important trends include the increased interest in the development of system
+Highlight words: operating system system 
+1 Q0 CACM-2080 86 3.69437625907 BM25
+Snippet: operating systems to suit diverse requirements of program scheduling and resource allocation. The system nucleus simulates an environment in which
+Highlight words: operating system an which 
+1 Q0 CACM-1324 87 3.69326210887 BM25
+Snippet: systems which are programmed and operating are described and reviewed. The systems range from a conversation machine to programs which
+Highlight words: which operating which 
+1 Q0 CACM-2184 88 3.68882697987 BM25
+Snippet: a similarity of function between the data names of a programming language and the file names of an operating system.
+Highlight words: an operating system 
+1 Q0 CACM-2624 89 3.67201173435 BM25
+Snippet: test whether such an architecture can support virtual machines. CACM July, 1974 Popek, G. J. Goldberg, R. P. operating system,
+Highlight words: an operating system 
+1 Q0 CACM-0092 90 3.65701600005 BM25
+Snippet: of various programming systems. A particular manifestation is the jungle of assorted devices for reproducing limited human decision procedures. An
+Highlight words: for An 
+1 Q0 CACM-1924 91 3.65701600005 BM25
+Snippet: Matrix representations and operations are examined for the purpose of minimizing the page faulting occurring in a paged memory system.
+Highlight words: for system 
+1 Q0 CACM-2111 92 3.65598862769 BM25
+Snippet: decreased, saving both programmer and machine time. CACM February, 1970 Morgan, H. L. spelling correction, error correction, debugging, compilers, operating
+Highlight words: time operating 
+1 Q0 CACM-2522 93 3.64561833873 BM25
+Snippet: system. CACM April, 1973 Rodriguez-Rosell, J. Dupuy, J. P. working set, dispatcher, scheduler, time-sharing systems, resource allocation, software evaluation, operating
+Highlight words: system operating 
+1 Q0 CACM-0671 94 3.63796948636 BM25
+Snippet: TELEFILE-A Case Study of an On-Line Savings Bank Application The development of an on-line computer system for a savings bank
+Highlight words: an an system for 
+1 Q0 CACM-2370 95 3.63796948636 BM25
+Snippet: and display system has been in operation at the IBM Thomas J. Watson Research Center for three years. The system
+Highlight words: system IBM for system 
+1 Q0 CACM-2542 96 3.63416175087 BM25
+Snippet: DeVaney, D. B. operating system development, language processing software evaluation, compilers, system programming, supervisory systems, debugging, program maintenance, modeling, system
+Highlight words: operating system system system 
+1 Q0 CACM-2878 97 3.61030676825 BM25
+Snippet: system's queues, are derived. CACM March, 1976 Babad, J. M. Modiano, M. M. priority queues, semi-Markov process, price scheduling, operating
+Highlight words: system operating 
+1 Q0 CACM-0696 98 3.6074018495 BM25
+Snippet: in Van Nuys and Sunnyvale, California. The system includes over 200 remote Input Stations which collect and transmit Company operating
+Highlight words: system which operating 
+1 Q0 CACM-3026 99 3.60338246971 BM25
+Snippet: one operand from storage and one from a high-speed register, or two operands from high-speed registers. The 1100 Operating System
+Highlight words: Operating System 
+1 Q0 CACM-1391 100 3.59228323344 BM25
+Snippet: Computer Experiments in Finite Algebra A medium-scale programming system is written in MAD and FAP on the IBM 7094 to
+Highlight words: system IBM 
+2 Q0 CACM-2748 1 9.91856772766 BM25
+Snippet: code but requires less space and is more amenable to machine independent implementations. CACM June, 1975 Dewar, R. B. K.
+Highlight words: B. 
+2 Q0 CACM-2491 2 9.74503516823 BM25
+Snippet: "threaded code" is presented as an alternative to machine language code. Hardware and software realizations of it are given. In
+Highlight words: In 
+2 Q0 CACM-2701 3 9.60201629585 BM25
+Snippet: one-entry one-exit control structures linearity. The algorithm can be extended to yet larger classes of function spaces and graphs by
+Highlight words: by 
+2 Q0 CACM-2530 4 9.38372840808 BM25
+Snippet: CACM March, 1973 Wagner, R. A. information retrieval, coding, text compression 3.70 5.6 CA730309 JB January 24, 1978 10:26 AM
+Highlight words: AM 
+2 Q0 CACM-3005 5 9.13274272446 BM25
+Snippet: Structured Programming for Machine Architecture Based on an empirical study of more than 10,000 lines of program text written in
+Highlight words: written in 
+2 Q0 CACM-2716 6 8.91232332942 BM25
+Snippet: specification supplied by the user. A relational algebra interface, called SQUIRAL, which was designed using this approach, is described in
+Highlight words: by in 
+2 Q0 CACM-3103 7 8.89195046475 BM25
+Snippet: implementation for an abstract type. Thus the programs produced using abstract types were then inefficient in space or time. In
+Highlight words: in or In 
+2 Q0 CACM-2559 8 8.78232351758 BM25
+Snippet: of the table being rescattered. Moreover, it can be used to eliminate previously flagged deletions from any hash-coded table, or
+Highlight words: or 
+2 Q0 CACM-1886 9 8.74144682774 BM25
+Snippet: factoring the expressions, i.e. finding a set of subexpressions each of which occurs in two or more other expressions or
+Highlight words: in or or 
+2 Q0 CACM-1947 10 8.69844240766 BM25
+Snippet: before others, are used to do global common expression elimination and loop identification. Implementation of these and other optimizations in
+Highlight words: in 
+2 Q0 CACM-2801 11 8.43182837558 BM25
+Snippet: The hardware requirement is small, and the mappings can be done manually. CACM January, 1975 Chi Chen, T. Ho, I.
+Highlight words: I 
+2 Q0 CACM-2856 12 8.43169511763 BM25
+Snippet: smaller problems (decision tables with one less condition) are created. An optimal program (with respect to average execution time or
+Highlight words: or 
+2 Q0 CACM-2033 13 8.38480952584 BM25
+Snippet: be improved by using a smaller core resident hash area in conjunction with the new methods and, when necessary, by
+Highlight words: by in by 
+2 Q0 CACM-2722 14 8.22349680348 BM25
+Snippet: Multidimensional Binary Search Trees Used for Associative Searching This paper develops the multidimensional binary search tree (or k-d tree, where
+Highlight words: or 
+2 Q0 CACM-1807 15 8.19992052717 BM25
+Snippet: Optimization of Expressions in Fortran A method of optimizing the computation of arithmetic and indexing expressions of a Fortran program
+Highlight words: in 
+2 Q0 CACM-2944 16 8.18944540326 BM25
+Snippet: reclamation overhead to be partially shifted to compile time. The paper assumes a transaction oriented collection scheme, as proposed by
+Highlight words: by 
+2 Q0 CACM-3106 17 7.71177566713 BM25
+Snippet: program variables, no auxiliary storage, such as a stack, is used. The algorithm needs no mark bits and operates in
+Highlight words: in 
+2 Q0 CACM-2680 18 7.63482433951 BM25
+Snippet: to disk packs, and packs to either resident or nonresident status is presented. Heuristics are suggested for those cases in
+Highlight words: either or in 
+2 Q0 CACM-2598 19 7.54532383481 BM25
+Snippet: effort needed to obtain a globally optimal solution for complex decision tables is usually not justified by sufficient savings in
+Highlight words: by in 
+2 Q0 CACM-1542 20 7.36401658623 BM25
+Snippet: and of an I/O control program written in 360 machine language. The system is described and results are given in
+Highlight words: written in in 
+2 Q0 CACM-2897 21 7.34433740348 BM25
+Snippet: statement, the code produced by a compiler using the expansion-optimization strategy described above compares favorably with the code produced by
+Highlight words: by by 
+2 Q0 CACM-3129 22 7.26159718426 BM25
+Snippet: Records are added to the files either by jobs in batch processing mode, or by on-line transactions. Each transaction (or
+Highlight words: either by in or by or 
+2 Q0 CACM-1795 23 7.17311036096 BM25
+Snippet: 
+Highlight words: 
+2 Q0 CACM-1195 24 7.16880167722 BM25
+Snippet: system. The programs are completely self-checking and test for both validity and accuracy of the input materials as provided by
+Highlight words: by 
+2 Q0 CACM-2495 25 7.11335962257 BM25
+Snippet: 
+Highlight words: 
+2 Q0 CACM-2314 26 6.96219741411 BM25
+Snippet: various control regimes including multiprocesses, coroutines and backtracking. Alternative methods of procedure invocation required include invocation by pattern and by
+Highlight words: by by 
+2 Q0 CACM-3033 27 6.94620552812 BM25
+Snippet: a large number of variables can be handled without deriving expanded tables first. CACM December, 1978 Martelli, A. Montanari, U.
+Highlight words: U 
+2 Q0 CACM-2537 28 6.93292701534 BM25
+Snippet: is described. The method relies on hand selection of a set of text strings which are common to one or
+Highlight words: or 
+2 Q0 CACM-3171 29 6.9077812398 BM25
+Snippet: used for implementations of high level languages. Under suitable circumstances, this method requires absolutely no overhead, in either time or
+Highlight words: in either or 
+2 Q0 CACM-2648 30 6.82505313468 BM25
+Snippet: theory package is described which uses doubly linked list structures for storing multiprecise integers. The package has been coded in
+Highlight words: in 
+2 Q0 CACM-2819 31 6.81305034322 BM25
+Snippet: viewed as strings of characters, is presented. The method is general, and applies equally well to English, to PL/I, or
+Highlight words: or 
+2 Q0 CACM-2490 32 6.8054132959 BM25
+Snippet: 
+Highlight words: 
+2 Q0 CACM-2586 33 6.76826910502 BM25
+Snippet: Instruction Sets Available on Present-Day Computers (Errata) CACM October, 1974 Stockhausen, P. F. CA741012 JB January 16, 1978 11:05 AM
+Highlight words: AM 
+2 Q0 CACM-1223 34 6.75455293761 BM25
+Snippet: is the only one which hasto read the bulky problem-oriented input. The double scan, one in either direction, performed by
+Highlight words: in either by 
+2 Q0 CACM-3099 35 6.6352284991 BM25
+Snippet: the sets of sufficient conditions presented can be thought of as generalizations of optimality conditions based on primal-dual complementarity in
+Highlight words: in 
+2 Q0 CACM-1694 36 6.59733505696 BM25
+Snippet: optimum, storage vs. time compromise, set union, mutually exclusive events 5.12 5.5 5.6 CA680907 JB February 22, 1978 8:45 AM
+Highlight words: AM 
+2 Q0 CACM-3072 37 6.5888270978 BM25
+Snippet: improve system performance (as measured by user CPU time) over that given by optimal or near-optimal static schedulers imbeded in
+Highlight words: by by or in 
+2 Q0 CACM-2885 38 6.57544108475 BM25
+Snippet: search probabilities. CACM February, 1976 Rivest, R. searching, self-organizing, list-processing, heuristics 3.74 5.25 CA760202 JB January 5, 1978 9:44 AM
+Highlight words: AM 
+2 Q0 CACM-2253 39 6.53114811123 BM25
+Snippet: of expressions in the matrix calculi described by the authors in a previous paper. This scheme attempts program optimization by
+Highlight words: in by in by 
+2 Q0 CACM-3113 40 6.39969448488 BM25
+Snippet: extended, or mixed entry decision tables to optimal decision trees is presented which can take into account rule frequencies or
+Highlight words: or or 
+2 Q0 CACM-2904 41 6.38985576808 BM25
+Snippet: program analysis, operator strength reduction, test replacement, strongly connected region 4.12 5.24 5.32 CA771112 JB December 27, 1977 6:34 AM
+Highlight words: AM 
+2 Q0 CACM-2858 42 6.35801654522 BM25
+Snippet: instructions, in which case the total code length is minimized, or minimizing the assigned address of a specified point in
+Highlight words: in or in 
+2 Q0 CACM-2816 43 6.30760630166 BM25
+Snippet: database organizations, the cost of accessing the database will increase due to structural changes caused by updates and insertions. By
+Highlight words: by By 
+2 Q0 CACM-0867 44 6.29633841436 BM25
+Snippet: by Stone, by Bellman and by Gluss to determine the closet fit of broken line segments to a curve in
+Highlight words: by by by in 
+2 Q0 CACM-2623 45 6.28278593138 BM25
+Snippet: and pertinent statistics are given and compared with statistics for other information coding techniques. CACM August, 1974 Hahn, B. file
+Highlight words: B. 
+2 Q0 CACM-2753 46 6.25332943661 BM25
+Snippet: for Equipment or Furniture Layouts The Designer Problem Solver (DPS) demonstrates that the computer can perform simple design tasks. In
+Highlight words: or In 
+2 Q0 CACM-1235 47 6.24768826419 BM25
+Snippet: in an English text to its form class or part of speech. The program operates at relatively high speed in
+Highlight words: in or in 
+2 Q0 CACM-3057 48 6.21749400469 BM25
+Snippet: points of a given gray level i to another gray level T(i) such that if i > j, then T(i)
+Highlight words: i i i i 
+2 Q0 CACM-2276 49 6.20721584032 BM25
+Snippet: choice between slower and shorter algorithms and faster but space consuming methods. CACM October, 1972 Ahrens, J. H. Dieter, U.
+Highlight words: U 
+2 Q0 CACM-2081 50 6.20056052966 BM25
+Snippet: are called normal forms. Several completeness results are obtained in the sense that for each expression an equivalent expression in
+Highlight words: in in 
+2 Q0 CACM-2863 51 6.13242252067 BM25
+Snippet: are presented to demonstrate the improvement possible over the known realizable variable space algorithms. CACM May, 1976 Prieve, B. G.
+Highlight words: Prieve B. 
+2 Q0 CACM-1564 52 6.12098195105 BM25
+Snippet: and this language associated with it were developed for COBOL users, the preprocessor was written in a modular form in
+Highlight words: written in in 
+2 Q0 CACM-3080 53 6.10705079116 BM25
+Snippet: Proving the Correctness of Heuristically Optimized Code A system for proving that programs written in a high level language are
+Highlight words: written in 
+2 Q0 CACM-0940 54 6.09280384656 BM25
+Snippet: probabilities. The method uses a uniform variable to direct the computer to a memory location; if this is done by
+Highlight words: by 
+2 Q0 CACM-2929 55 6.09042114381 BM25
+Snippet: all procedure calls can be eliminated, with little increase in the size of compiled code and a small savings in
+Highlight words: in in 
+2 Q0 CACM-0124 56 6.08999702468 BM25
+Snippet: the Assignment Problem The assignment problem is formulated and briefly discussed. An efficient algorithm for its solution is presented in
+Highlight words: in 
+2 Q0 CACM-2834 57 6.04841686213 BM25
+Snippet: generate the n-bit binary reflected Gray code and codewords of fixed weight in that code. Both algorithms are efficient in
+Highlight words: in in 
+2 Q0 CACM-1066 58 6.04528674293 BM25
+Snippet: is devoted to the underlying principles upon which future linear programming systems must be based. These viewpoints are influenced by
+Highlight words: by 
+2 Q0 CACM-1088 59 6.04114919942 BM25
+Snippet: Menu Planning by Computer A computer code has been developed which plans menus by finding minimum cost combinations of menu
+Highlight words: by by 
+2 Q0 CACM-2423 60 5.97532102048 BM25
+Snippet: generator" realizable as an assembly language, Fortran or Algol, subroutine that is called whenever that syntactic rule is applied in
+Highlight words: or in 
+2 Q0 CACM-1651 61 5.95294956232 BM25
+Snippet: which greatly simplifies data input to any linear programming solution routine, for subsequent use either as a pedagogical device or
+Highlight words: either or 
+2 Q0 CACM-2437 62 5.81591167518 BM25
+Snippet: a new approach to the analysis of performance of the various key-to-address transformation methods. In this approach the keys in
+Highlight words: In in 
+2 Q0 CACM-1901 63 5.81197506499 BM25
+Snippet: Dynamic Space-Sharing in Computer Systems A formalization of relationships between space-shading program behavior, and processor efficiency in computer systems is
+Highlight words: in in 
+2 Q0 CACM-3110 64 5.76721442796 BM25
+Snippet: "span-dependent" instruction is either a label or an assembly-time expression of a certain restricted formf this restriction is relaxed by
+Highlight words: either or by 
+2 Q0 CACM-2787 65 5.75436521317 BM25
+Snippet: it is designed as a structured program, which can readily be coded by the reader in the high level or
+Highlight words: by in or 
+2 Q0 CACM-3041 66 5.73334554784 BM25
+Snippet: English is presented, and the performance obtained is contrasted with that of other techniques. CACM November, 1978 Sheil, B. Tree
+Highlight words: 
+2 Q0 CACM-1552 67 5.67840988788 BM25
+Snippet: The AED Free Storage Package The most fundamental underlying problem in sophisticated software systems involving elaborate, changing data structure is
+Highlight words: in 
+2 Q0 CACM-3001 68 5.67199868723 BM25
+Snippet: retrieval, secondary keys, pattern recognition, artificial in telligence, demons, n-tuples, sorting, chess 3.63 5.31 CA770104JB January 3, 1978 12:15 AM
+Highlight words: in AM 
+2 Q0 CACM-2433 69 5.65860451193 BM25
+Snippet: explicit parallelism, array allocation, parallel control structures, ILLIAC IV Fortran 4.12 4.21 4.22 CA731007 JB January 20, 1978 11:30 AM
+Highlight words: AM 
+2 Q0 CACM-3054 70 5.64208231392 BM25
+Snippet: implementation combining the most effective improvements to Quicksort is given, along with a discussion of how to implement it in
+Highlight words: in 
+2 Q0 CACM-2734 71 5.6213500791 BM25
+Snippet: On the External Storage Fragmentation Produced by First-Fit and Best-Fit Allocation Strategies Published comparisons of the external fragmentation produced by
+Highlight words: by by 
+2 Q0 CACM-1738 72 5.59816435124 BM25
+Snippet: be improved by using certain techniques applicable to most online debugging programs. These techniques are presented and are illustrated by
+Highlight words: by by 
+2 Q0 CACM-3027 73 5.59096553069 BM25
+Snippet: 
+Highlight words: 
+2 Q0 CACM-3114 74 5.52060707374 BM25
+Snippet: two versions of a source program or other file in order to display all differences. The algorithm isolates differences in
+Highlight words: or in in 
+2 Q0 CACM-2500 75 5.49456855263 BM25
+Snippet: Resources and Avoiding Deadlocks Resource scheduling and allocation can be expensive with regard to time and space in multiprogramming or
+Highlight words: in or 
+2 Q0 CACM-2185 76 5.46263512972 BM25
+Snippet: code. CACM June, 1971 Glaswin, H. T. compiling multiplications, fixed point arithmetic 4.12 CA710605 JB February 3, 1978 10:04 AM
+Highlight words: AM 
+2 Q0 CACM-2064 77 5.44803890068 BM25
+Snippet: in which the location, length, and content of each array is described by a codeword which can be interpreted by
+Highlight words: in by by 
+2 Q0 CACM-3067 78 5.42032122027 BM25
+Snippet: optimal memory policies, paging, program behavior, program measurement, segmentation, working sets 4.30 8.10 CA780905 DH February 5, 1979 11:20 AM
+Highlight words: AM 
+2 Q0 CACM-0405 79 5.36683033593 BM25
+Snippet: during compilation, and recognizes many equivalent subexpressions. CACM January, 1961 Floyd, R. W. CA610109 JB March 17, 1978 1:19 AM
+Highlight words: AM 
+2 Q0 CACM-3053 80 5.34737478616 BM25
+Snippet: 
+Highlight words: 
+2 Q0 CACM-2524 81 5.34417374944 BM25
+Snippet: of comparisons required to achieve the desired result. These methods are derived using certain inequalities satisfied by metrics and by
+Highlight words: by by 
+2 Q0 CACM-2857 82 5.33234746666 BM25
+Snippet: Referencing Lists by an Edge An edge reference into a list structure is a pair of pointers to adjacent nodes.
+Highlight words: by 
+2 Q0 CACM-3074 83 5.30872384396 BM25
+Snippet: pointer. The algorithm operates by reversibly encoding the situation (that a collection of locations point to a single location) by
+Highlight words: by by 
+2 Q0 CACM-1134 84 5.29561655261 BM25
+Snippet: method. Several assumptions are made for purposes of simplification, although there are cases in which the assumptions are violated in
+Highlight words: in in 
+2 Q0 CACM-2903 85 5.28414518145 BM25
+Snippet: called "recursion in troduction," is described and applied to two algorithms which solve pattern matching problems. By using recursion in
+Highlight words: in By in 
+2 Q0 CACM-2855 86 5.26066361477 BM25
+Snippet: are necessary, but pointers to the copy must be distinguishable from pointers to the original. The algorithm is superior in
+Highlight words: in 
+2 Q0 CACM-2720 87 5.25805199196 BM25
+Snippet: queueing theory, each disk drive is characterized by a queueing model with service time of a disk drive represented by
+Highlight words: by by 
+2 Q0 CACM-0322 88 5.23467740878 BM25
+Snippet: the fact that others may be occupying a storage medium required by the first. These incompatibilities are currently resolved by
+Highlight words: by by 
+2 Q0 CACM-0849 89 5.22296569361 BM25
+Snippet: the trie structure is also discussed. CACM May, 1963 Sussenguth Jr., E. H. CA630518 JB March 14, 1978 10:49 AM
+Highlight words: AM 
+2 Q0 CACM-2968 90 5.1829730304 BM25
+Snippet: in terest, then "pure" AVL trees present the overall best qualities. CACM May, 1977 Baer, J. L. Schwab, B. binary
+Highlight words: in B. 
+2 Q0 CACM-1974 91 5.16402242585 BM25
+Snippet: to produce a reformatted version. When in the LOGICAL mode, NEATER2 indicates the logical structure of the source program in
+Highlight words: in in 
+2 Q0 CACM-2998 92 5.14012495117 BM25
+Snippet: in the space-efficient representation of list structure is discussed. Linearization of lists, whereby successive cdrs (or cars) are placed in
+Highlight words: in or in 
+2 Q0 CACM-2833 93 5.13348978465 BM25
+Snippet: a heap, and does not require the programmer to give any indication that particular items are no longer useful or
+Highlight words: or 
+2 Q0 CACM-1172 94 5.11292972528 BM25
+Snippet: the second minimizes computer running time. During the conversion process, both pinpoint any contradictions or redundancies among the rules in
+Highlight words: or in 
+2 Q0 CACM-2451 95 5.08003742045 BM25
+Snippet: of data and shows that essentially the same algorithm can be used to design either an ideal search tree or
+Highlight words: either or 
+2 Q0 CACM-2142 96 5.06716558841 BM25
+Snippet: from Their Projections There are situations in the natural sciences and medicine (e.g. in electron microscopy and X-ray photography) in
+Highlight words: in in in 
+2 Q0 CACM-2651 97 5.01259788151 BM25
+Snippet: type behavior, in a context that allows efficient compiled code and compact data representation. CACM May, 1974 Wegbreit, B. data
+Highlight words: in B. 
+2 Q0 CACM-2374 98 4.86799801393 BM25
+Snippet: justifying this model are described. By means of this model dynamic storage partitioning is shown to provide substantial increases in
+Highlight words: By in 
+2 Q0 CACM-2138 99 4.86768191588 BM25
+Snippet: D. B. programming languages, implementation language, systems programming, data structures 4.12 4.21 4.22 CA711205 JB February 2, 1978 10:09 AM
+Highlight words: B. AM 
+2 Q0 CACM-3112 100 4.84297061529 BM25
+Snippet: required by the elementary list operations (e.g. CONS, CAR, CDR, RPLACA, REPLACD, EQ, and ATOM in LISP) is bounded by
+Highlight words: by in by 
+3 Q0 CACM-2714 1 5.03690808456 BM25
+Snippet: at most 2[log2 (m+1)] + [m/p](2+B) steps. In the case where m and n are of the same order of
+Highlight words: In of of 
+3 Q0 CACM-2266 2 4.99835683522 BM25
+Snippet: is guaranteed. Multiple zeros and their multiplicity are readily determined. At no point in the method is polynomial deflation used.
+Highlight words: in used 
+3 Q0 CACM-2973 3 4.97911417743 BM25
+Snippet: The best previous algorithm takes time O(n log n). The algorithms of this paper are shown to be optimal in
+Highlight words: of in 
+3 Q0 CACM-3156 4 4.82310274709 BM25
+Snippet: in time O(log2n). An O(log2n) time bound also can be achieved using only n$n/$log2n)) processors. The algorithm can be used
+Highlight words: in used 
+3 Q0 CACM-3075 5 4.82269202995 BM25
+Snippet: that requires more space than the product of processors and time. A realistic model is used model is used in
+Highlight words: of used used in 
+3 Q0 CACM-0950 6 4.81946065158 BM25
+Snippet: can be expected to be available in the near future, much of numerical analysis will have to be recast in
+Highlight words: in of in 
+3 Q0 CACM-2433 7 4.72643442388 BM25
+Snippet: Control Structures in Illiac IV Fortran As part of an effort to design and implement a Fortran compiler on the
+Highlight words: in of 
+3 Q0 CACM-2289 8 4.62372881015 BM25
+Snippet: A major challenge in the effective use of cellular arrays for the solution of graph problems is the determination of
+Highlight words: in of of of 
+3 Q0 CACM-2401 9 4.60509502751 BM25
+Snippet: each pattern, is presented. This procedure may be used for counting patterns on a matrix, and a hardware implementation of
+Highlight words: used of 
+3 Q0 CACM-2785 10 4.47832136313 BM25
+Snippet: Illiac IV GLYPNIR is one of the earliest existing languages designed for programming the Illiac IV computer. The syntax of
+Highlight words: of languages of 
+3 Q0 CACM-2557 11 4.26304875748 BM25
+Snippet: On the Time Required for a Sequence of Matrix Products This paper discusses the multiplication of conformable sequences of row
+Highlight words: of of of 
+3 Q0 CACM-2664 12 4.23993430042 BM25
+Snippet: Parallelism in Tape-Sorting Two methods for employing parallelism in tape-sorting are presented. Method A is the natural way to use
+Highlight words: in in 
+3 Q0 CACM-1262 13 4.21644985518 BM25
+Snippet: which allow a programmer writing in a procedure-oriented language to indicate sections of program which are to be executed in
+Highlight words: in of in 
+3 Q0 CACM-2838 14 4.21127666628 BM25
+Snippet: at most twice as much processing power as regular garbage collectors, if they are used efficiently. The average behavior of
+Highlight words: used of 
+3 Q0 CACM-1811 15 4.19756329407 BM25
+Snippet: means of data in storage shared by all processors. A program for the determination of the distribution of current in
+Highlight words: of in of of in 
+3 Q0 CACM-2700 16 4.19208753254 BM25
+Snippet: Reduction: A Method of Proving Properties of Parallel Programs When proving that a parallel program has a given property it
+Highlight words: of of 
+3 Q0 CACM-2685 17 4.18409689073 BM25
+Snippet: of a DO loop. Both asynchronous multiprocessor computers and array computers are considered. Practical application to the design of compilers
+Highlight words: of of compilers 
+3 Q0 CACM-2570 18 4.15561668876 BM25
+Snippet: It is shown that different algorithms suggested in the literature vary significantly in execution time and that the B-schedule of
+Highlight words: in in of 
+3 Q0 CACM-1158 19 4.1464259229 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-1828 20 4.0847940114 BM25
+Snippet: example of such a data base is a hierarchy of directories for an on-line file system. Methods for synchronization of
+Highlight words: of of of 
+3 Q0 CACM-0141 21 4.06091853176 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-0392 22 4.05103377252 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-1302 23 4.05103377252 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-2851 24 4.03541862115 BM25
+Snippet: without enumeration of the set of all possible control states. Examples are presented in which the induction principle is used
+Highlight words: of of in used 
+3 Q0 CACM-3059 25 4.02834236132 BM25
+Snippet: are developed in this paper. The solution technique is developed by network decomposition. The models are formulated in terms of
+Highlight words: in in of 
+3 Q0 CACM-2195 26 4.02597088917 BM25
+Snippet: of Curves in Noisy Pictures A technique for recognizing systems of lines is presented. In this technique the heuristic of
+Highlight words: of in of In of 
+3 Q0 CACM-2896 27 4.01560333554 BM25
+Snippet: on-the-fly garbage collector, is proved correct using a proof method developed by Owicki. The fine degree of in terleaving in
+Highlight words: of in in 
+3 Q0 CACM-1795 28 3.99834800545 BM25
+Snippet: Optimal Code for Serial and Parallel Computation CACM December, 1969 Fateman, R. J. code optimization, sequencing of operations, detection of
+Highlight words: of of 
+3 Q0 CACM-2660 29 3.98906001299 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-2342 30 3.98260936859 BM25
+Snippet: associated subproblems, in the form of parallel programs, and informal proofs of correctness have been given for these solutions. In
+Highlight words: in of of In 
+3 Q0 CACM-2895 31 3.98215019663 BM25
+Snippet: ts on the order in which events of a computation can occur. The language is used to write specifications of
+Highlight words: in of used of 
+3 Q0 CACM-3175 32 3.97633730567 BM25
+Snippet: codes in which each letter of the alphabet has one fixed substitute, and the word divisions do not change. In
+Highlight words: in of In 
+3 Q0 CACM-0046 33 3.96395409186 BM25
+Snippet: parallelism in computers is noted. Exploitation of this parallelism presents a number of new problems in machine design and in
+Highlight words: in of of in in 
+3 Q0 CACM-2175 34 3.96320305915 BM25
+Snippet: sequence. CACM July, 1971 Ramamoorthy, C. V. Gonzalez, M. J. parallel processing, cache, arithmetic expressions, subexpression ordering, computational trees, compilers
+Highlight words: compilers 
+3 Q0 CACM-1367 35 3.96170268378 BM25
+Snippet: Character Structure and Character Parity Sense for Parallel-by-Bit Data Communication in ASCII* (Proposed American Standard) CACM September, 1966 CA660912 JB
+Highlight words: in 
+3 Q0 CACM-1569 36 3.90913583788 BM25
+Snippet: Implementing Phrase-Structure Productions in PL/I A method is described for implementing the productions of a context-free phrase structure grammar in
+Highlight words: in of in 
+3 Q0 CACM-2865 37 3.8824675908 BM25
+Snippet: a parallel program as an aid to proving it correct. The information in a partial correctness proof can be used
+Highlight words: in used 
+3 Q0 CACM-1846 38 3.87419168149 BM25
+Snippet: systems are assumed to be described as a network of interconnected sequential processes. Briefly reviewed are the common techniques used
+Highlight words: of used 
+3 Q0 CACM-1747 39 3.85379668497 BM25
+Snippet: input equipment, input equipment design, operating systems, operating systems design, multiprogramming, multiprogrammed systems, multiprogrammed system design, virtual computers, programming languages,
+Highlight words: languages 
+3 Q0 CACM-2114 40 3.85365226494 BM25
+Snippet: record, file, directory, file structure, directory decoding, and record retrieval are defined and from which some of the frequently used
+Highlight words: of used 
+3 Q0 CACM-2692 41 3.83941898259 BM25
+Snippet: an ordered sequence of vertices without repetition of first and last, in marked contrast to representation as a collection of
+Highlight words: of of in of 
+3 Q0 CACM-2182 42 3.82331055995 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-3194 43 3.82331055995 BM25
+Snippet: in designing a device capable of distinguishing among speech events that are normally recognized as different by native speakers of
+Highlight words: in of of 
+3 Q0 CACM-2311 44 3.78866950806 BM25
+Snippet: A Generational Perspective of Information System Development System development is categorized from a generational point of view that parallels the
+Highlight words: of of 
+3 Q0 CACM-2952 45 3.76253236369 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-1008 46 3.75153652901 BM25
+Snippet: Meetings with a Computer Computer scheduling of papers as it was developed for the 1960 meeting of the Federation of
+Highlight words: of of of 
+3 Q0 CACM-2514 47 3.73347462921 BM25
+Snippet: matrices; he also has a choice of instance selection schemes (raster,random, parallel). Examples are given involving array languages consisting of
+Highlight words: of languages of 
+3 Q0 CACM-3044 48 3.73347462921 BM25
+Snippet: A Note on Conditional Expressions Evaluation of a conditional expression may succeed even when the "deciding predicate" diverges and the
+Highlight words: of 
+3 Q0 CACM-1601 49 3.73273946037 BM25
+Snippet: solution of an equation. The s8everal approximations obtained in any iteration are computationally independent, making the methods of interest in
+Highlight words: of in of in 
+3 Q0 CACM-2727 50 3.72990106972 BM25
+Snippet: Multiple Byte Processing with Full-Word Instructions A method is described which allows parallel processing of packed data items using only
+Highlight words: of 
+3 Q0 CACM-2515 51 3.72627218456 BM25
+Snippet: presented. A minimal event-node network is an event-node network in which both the number of nodes and the number of
+Highlight words: in of of 
+3 Q0 CACM-1341 52 3.7157331822 BM25
+Snippet: Systems In building current computer systems, we tend to break them down into "levels" of control, command and communication; in
+Highlight words: In of in 
+3 Q0 CACM-2080 53 3.70697911404 BM25
+Snippet: of operating systems to suit diverse requirements of program scheduling and resource allocation. The system nucleus simulates an environment in
+Highlight words: of of in 
+3 Q0 CACM-1554 54 3.69830101503 BM25
+Snippet: have been used to generate three-dimensional stereoscopic movies of the three-dimensional parallel and perspective projections of four-dimensional hyperobjects rotating in
+Highlight words: used of of in 
+3 Q0 CACM-2740 55 3.65104813018 BM25
+Snippet: internal structure of a large operating system as a set of cooperating sequential processes. The processes synchronize by means of
+Highlight words: of of of 
+3 Q0 CACM-1536 56 3.62501629146 BM25
+Snippet: subroutines. Evaluation of a function and derivative proceed in parallel, as in Wengert's procedure, but with the "imaginary" parts of
+Highlight words: of in in of 
+3 Q0 CACM-0320 57 3.59964495172 BM25
+Snippet: logic structure of a vending machine is given in which two logic tables are used. Logic tables are two-dimensional in
+Highlight words: of in used in 
+3 Q0 CACM-1959 58 3.59548187044 BM25
+Snippet: interrupt processing routines is presented. DPL, a programming language and supervisory system in which these concepts are implemented, is used
+Highlight words: in used 
+3 Q0 CACM-3120 59 3.55673745071 BM25
+Snippet: at the outset and he avoids special processing for each problem. This technique has been applied to the construction of
+Highlight words: construction of 
+3 Q0 CACM-1325 60 3.55673745071 BM25
+Snippet: analysis of parallel electrocardiographer-computer diagnostic interaction, and a study of the possibility of introducing major, tree-like branching decisions early in
+Highlight words: of of of in 
+3 Q0 CACM-1854 61 3.53889753258 BM25
+Snippet: the construction of operating systems, which are prime examples of programs with concurrent activities. The scheme includes a set of
+Highlight words: construction of of of 
+3 Q0 CACM-3073 62 3.53889753258 BM25
+Snippet: is illustrated by sample solutions of a variety of familiar programming exercises. CACM August, 1978 Hoare, C. Programming, programming languages,
+Highlight words: of of languages 
+3 Q0 CACM-1603 63 3.51559550738 BM25
+Snippet: provides parallel processing capability. User programs communicate with the monitor through a small set of meta-instruction which consists mostly of
+Highlight words: of of 
+3 Q0 CACM-2898 64 3.50699535881 BM25
+Snippet: removed if the language provides facilities for specifying a task in a nonprocedural manner. In general, a program specified in
+Highlight words: in In in 
+3 Q0 CACM-1200 65 3.48162997822 BM25
+Snippet: either with their instructions unchanged or replaced with conjugate instructions. It is shown that using this concept a number of
+Highlight words: of 
+3 Q0 CACM-2967 66 3.47885091205 BM25
+Snippet: A Comparison of Hardware and Software Associative Memories in the Context of Computer Graphics The Associative Processing of Line Drawings
+Highlight words: of in of of 
+3 Q0 CACM-1957 67 3.46755194606 BM25
+Snippet: from any expression involving sets and set operators. The efficiency derives from evaluating the expression as a whole and in
+Highlight words: in 
+3 Q0 CACM-1409 68 3.46507026218 BM25
+Snippet: as memory. The design objectives as originally conceived in a special seminar were: (1) to be a research project in
+Highlight words: in in 
+3 Q0 CACM-1468 69 3.42943831218 BM25
+Snippet: How the description generated in this phase can be embedded in a larger "conversation" program is explained by means of
+Highlight words: in in of 
+3 Q0 CACM-1928 70 3.37859126533 BM25
+Snippet: be combinations of synchronous and asynchronous logic. Certain aspects of the techniques described may be used for the simulation of
+Highlight words: of of used of 
+3 Q0 CACM-2497 71 3.28747396378 BM25
+Snippet: does require a special"read-interlock" instruction in the repertoire of the processors and a special "read-interlock" cycle in the repertoire of
+Highlight words: in of in of 
+3 Q0 CACM-1960 72 3.28290078508 BM25
+Snippet: Process Management and Resource Sharing in the Multiaccess System ESOPE The main design principles of the multiaccess system ESOPE are
+Highlight words: in of 
+3 Q0 CACM-2376 73 3.25811543822 BM25
+Snippet: Synchronization of Communicating Processes Formalization of a well-defined synchronization mechanism can be used to prove that concurrently running processes of
+Highlight words: of of used of 
+3 Q0 CACM-1613 74 3.1368378636 BM25
+Snippet: of arithmetic units, a compiler for such a processor should produce object code to take advantage of possible parallelism of
+Highlight words: of of of 
+3 Q0 CACM-1471 75 3.12885874776 BM25
+Snippet: computations The semantics are defined for a number of meta-instructions which perform operation essential to the writing of programs in
+Highlight words: of of in 
+3 Q0 CACM-2060 76 3.07923991718 BM25
+Snippet: The existence of label variables permits the construction of coroutines, quasi-parallel processes, and other unorthodox control mechanisms. A variety of
+Highlight words: of construction of of 
+3 Q0 CACM-1380 77 2.91646375976 BM25
+Snippet: language simulation program. SIMULA is an extension of ALGOL 60 in which the most important new concepts is that of
+Highlight words: of in of 
+3 Q0 CACM-2723 78 2.18819712728 BM25
+Snippet: Multiprocessing Compactifying Garbage Collection Algorithms for a multiprocessing compactifying garbage collector are presented and discussed. The simple case of two
+Highlight words: of 
+3 Q0 CACM-2430 79 0.965059132169 BM25
+Snippet: The Elementary Circuits of a Graph [H] (Algorithm A459) CACM October, 1973 Syslo,M. M. algorithm, graph theory, circuit search algorithm,
+Highlight words: of 
+3 Q0 CACM-2283 80 0.963466352432 BM25
+Snippet: will yield a thinned image with an overall reduced number of points. It is concluded that the algorithm operating in
+Highlight words: of in 
+3 Q0 CACM-2090 81 0.95554028716 BM25
+Snippet: Symbolic Expansion of Algebraic Expressions (Algorithm 377 $R2)) CACM March, 1970 Levine, M. J. algebra, symbolic algebra, symbolic multiplication, algebraic
+Highlight words: of 
+3 Q0 CACM-2146 82 0.953647343068 BM25
+Snippet: procedure are examinedhe optimum algorithm based on minimizing the total number of unit strings read is displayed. The logic of
+Highlight words: of of 
+3 Q0 CACM-0371 83 0.953437236963 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-1559 84 0.949244358703 BM25
+Snippet: Permutation Generator; Permutation in Lexicographical Order; Permute; Generation of Permutations in Lexicographical Order (Algorithm 87[G6]; Algorithm 102[G6]; Algorithm 130[G6]; Algorithm
+Highlight words: in of in 
+3 Q0 CACM-2030 85 0.948460147449 BM25
+Snippet: of memory required by the algorithm is essentially no more than the required to store a single complete derivation. In
+Highlight words: of In 
+3 Q0 CACM-2884 86 0.946458841582 BM25
+Snippet: have shown superiority of the new algorithms compared to Boothroyd's implementation of M. B. Well's algorithm and Ehrlich's implementation of
+Highlight words: of of of 
+3 Q0 CACM-2490 87 0.938838437542 BM25
+Snippet: (The start vertex can be specified dynamically.) If V is the number of vertices and E is the number of
+Highlight words: of of 
+3 Q0 CACM-1961 88 0.929821243892 BM25
+Snippet: the number of vertices and the number of arcs. The speed is also related to the number of circuits in
+Highlight words: of of of in 
+3 Q0 CACM-2767 89 0.928744624373 BM25
+Snippet: end-order tree algorithm is shown to be an advantageous, immediate replacement for the algorithm in use with current simulation languages.
+Highlight words: in languages 
+3 Q0 CACM-2903 90 0.927077055272 BM25
+Snippet: Improving Programs by the Introduction of Recursion A new technique of program transformation, called "recursion in troduction," is described and
+Highlight words: of of in 
+3 Q0 CACM-2950 91 0.926200502988 BM25
+Snippet: the implementation efficiency of an algorithm is developed and results in the definition of time-invariant algorithms, which include most of
+Highlight words: of in of of 
+3 Q0 CACM-3151 92 0.92444970009 BM25
+Snippet: An algorithm is described for the construction in real-time of the convex hull of a set of n points in
+Highlight words: construction in of of of in 
+3 Q0 CACM-2630 93 0.92322595937 BM25
+Snippet: Paths in a Graph Two algorithms are presented that construct the k shortest paths between every pair of vertices in
+Highlight words: in of in 
+3 Q0 CACM-2520 94 0.914297328626 BM25
+Snippet: Common Divisor of n Integers and Multipliers (Algorithm C386) CACM April, 1973 Ragland, L. C. Good, D. I. proof of
+Highlight words: of of 
+3 Q0 CACM-2031 95 0.909690352439 BM25
+Snippet: is presented. The number of arithmetic operations and the number of storage locations are linear in n. A theorem of
+Highlight words: of of in of 
+3 Q0 CACM-2657 96 0.906248995443 BM25
+Snippet: Its Correctness An improved program-synthesizing algorithm based on the algorithm proposed by Waldinger and Lee in 1969 is given. In
+Highlight words: in In 
+3 Q0 CACM-0199 97 0.906248995443 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-2904 98 0.904747117814 BM25
+Snippet: algorithms should fit well into an integrated package of local optimization algorithms. CACM November, 1977 Cocke, J. compilers, optimization of
+Highlight words: of compilers of 
+3 Q0 CACM-2509 99 0.897271379036 BM25
+Snippet: 
+Highlight words: 
+3 Q0 CACM-2862 100 0.892600788138 BM25
+Snippet: Semi-Markov Model An analytical model is presented to estimate the performance of the Page Fault Frequency (PFF) replacement algorithm. In
+Highlight words: of In 
+4 Q0 CACM-2406 1 7.05132203281 BM25
+Snippet: systems, as well as in advanced data management systems and distributed data bases. This paper reviews past work in the
+Highlight words: as as in and distributed work in the 
+4 Q0 CACM-3072 2 6.27349699556 BM25
+Snippet: systems are presented. The basic control variables used are the data-flow rates for the processes executing on the CPU. The
+Highlight words: are The are the for the processes on the The 
+4 Q0 CACM-2926 3 6.22332835492 BM25
+Snippet: presented for pagination of B*-trees with variable-length records. If records of each length are uniformly distributed within the file, and
+Highlight words: for of with of are distributed the and 
+4 Q0 CACM-2032 4 6.03305151185 BM25
+Snippet: examined, and their relation to trees studied in the past is explainedesults for the probability distributions of path lengths are
+Highlight words: and to in the for the of are 
+4 Q0 CACM-2454 5 5.97868018593 BM25
+Snippet: are also derived. The computational algorithms are based on two-dimensional iterative techniques which are highly efficient and quite simple to
+Highlight words: are The are on are and to 
+4 Q0 CACM-2798 6 5.96687408089 BM25
+Snippet: of memory modules in operation during a memory cycle. Results of the simulations and an analytical study are displayed for
+Highlight words: of in a of the and are for 
+4 Q0 CACM-3135 7 5.76742138456 BM25
+Snippet: structure or a structural fragment to a set of peaks in the electron-density distribution of a Fourier map; (3) in
+Highlight words: or a to a of in the of a in 
+4 Q0 CACM-2949 8 5.74715505942 BM25
+Snippet: distributed computer network, correctness proofs, computer networks, distributed control, network topology, routing problem in networks, distributed operating system, store and
+Highlight words: distributed distributed problem in distributed and 
+4 Q0 CACM-2816 9 5.74690277695 BM25
+Snippet: database,the access costs can be reduced. A basic problem is to establish the proper tradeoff between performance, storage costs, and
+Highlight words: the A problem to the between and 
+4 Q0 CACM-2767 10 5.73233854857 BM25
+Snippet: fruitful. CACM April, 1975 Vaucher, J. G. Duval, P. simulation, time flow mechanisms, event list algorithm, simulation, time flow mechanisms,
+Highlight words: mechanisms mechanisms 
+4 Q0 CACM-2276 11 5.71238575058 BM25
+Snippet: methods are known for transforming uniformly distributed random numbers into exponentially and normally distributed quantities. The most efficient ones are
+Highlight words: are for distributed and distributed The are 
+4 Q0 CACM-2969 12 5.58643985148 BM25
+Snippet: the dependencies between files and programs such as occur in real heterogeneous computer networks. Insights into whether or not to
+Highlight words: the between and as in or not to 
+4 Q0 CACM-2936 13 5.57340779435 BM25
+Snippet: be nearly independent of n. CACM August, 1977 Franta, W. R. Maly, K. simulation, time flow mechanisms, event scanning mechanisms,
+Highlight words: of mechanisms mechanisms 
+4 Q0 CACM-3131 14 5.54568814243 BM25
+Snippet: of operations, comparable in speed with hardware arithmetic for many applications. Algorithms for 8-bit and 16-bit implementations of FOCUS are
+Highlight words: of in with for for and implementations of are 
+4 Q0 CACM-3082 15 5.48802430755 BM25
+Snippet: and the Ordering of Events in a Distributed System The concept of one event happening before another in a distributed
+Highlight words: and the of in a Distributed The of in a distributed 
+4 Q0 CACM-3148 16 5.29795583459 BM25
+Snippet: for distributed and other loosely coupled systems is a problem of growing interest. This paper describes an approach to distributed
+Highlight words: for distributed and a problem of to distributed 
+4 Q0 CACM-2914 17 5.2718503258 BM25
+Snippet: for the computation of both kinds of distributions are given. Finally, examples are given of both families of distributions as
+Highlight words: for the of of are examples are of of as 
+4 Q0 CACM-2849 18 5.26525607736 BM25
+Snippet: included for completeness. CACM July, 1976 Metcalfe, R. M. Boggs, D. R. computer networks, packet switching, multiprocessing, distributed control, distributed
+Highlight words: for distributed distributed 
+4 Q0 CACM-1003 19 5.25072949641 BM25
+Snippet: as one in which the physical laws of a process are used explicitly in the program. Usually this results in
+Highlight words: as in the of a are in the in 
+4 Q0 CACM-2250 20 5.20723226442 BM25
+Snippet: Computer Methods for Sampling from the Exponential and Normal Distributions (Corrigendum) CACM December, 1972 Ahrens, J. H. Dieter, U. CA721205
+Highlight words: for the and 
+4 Q0 CACM-1745 21 5.19501854436 BM25
+Snippet: J. B. information networks, information systems, computing and free enterprise, computing economics, computer installation management, government regulation, communications services, distributed
+Highlight words: and distributed 
+4 Q0 CACM-0241 22 5.15992468889 BM25
+Snippet: Moments of a Probability Distribution A method is presented for the calculation on a machine of the moments of a
+Highlight words: of a A for the on a of the of a 
+4 Q0 CACM-2481 23 5.07723828692 BM25
+Snippet: between primary memory and the central processing unit is considered. The optimal distribution of a program between the buffer and
+Highlight words: between and the The of a between the and 
+4 Q0 CACM-2216 24 5.03076763667 BM25
+Snippet: the values reflecting sorting effort. The analysis does not assume uniformly distributed branching ratios, and therefore is applicable to a
+Highlight words: the The not distributed and to a 
+4 Q0 CACM-2893 25 5.02272629803 BM25
+Snippet: might explain the differences between governments in the extent to which they adopt and use computers? Hypotheses are tested for
+Highlight words: the between in the to and are for 
+4 Q0 CACM-2261 26 4.97564172796 BM25
+Snippet: on the inverse function of the lambda distribution of Turkey. Since it approximates many of the continuous theoretical distributions and
+Highlight words: on the of the of of the theoretical and 
+4 Q0 CACM-2890 27 4.96581643372 BM25
+Snippet: in the routing table maintained at each network node. Simulation results are presented which confirm the theoretical analysis for a
+Highlight words: in the are the theoretical for a 
+4 Q0 CACM-2988 28 4.96506944639 BM25
+Snippet: are reported. Relations between workload variables such as memory requirement distribution and job swap time, and performance measures such as
+Highlight words: are between as and and as 
+4 Q0 CACM-2004 29 4.9231253408 BM25
+Snippet: Results are presented and are compared with computer runs achieved by the Warnock approach. An extension of the procedure to
+Highlight words: are and are with the of the procedure to 
+4 Q0 CACM-3084 30 4.91312720894 BM25
+Snippet: logN file accesses are required to retrieve a key, assuming that the N keys are uniformly distributed. The number of
+Highlight words: are to a the are distributed The of 
+4 Q0 CACM-1433 31 4.85569879754 BM25
+Snippet: A Note on Linear Programming Algorithm Design: A Combinatorial Problem As linear programming models grow bigger and bigger in size,
+Highlight words: A on A Problem As and in 
+4 Q0 CACM-1951 32 4.84070031819 BM25
+Snippet: be used to describe the discrete variables. Approximations to the gamma distribution by the exponential distribution are discussed for the
+Highlight words: to the to the the are for the 
+4 Q0 CACM-1844 33 4.82993036573 BM25
+Snippet: serves as the master or control computer and supervises the collection and distribution of messages from and to the remote
+Highlight words: as the or and the and of and to the remote 
+4 Q0 CACM-2371 34 4.82467494375 BM25
+Snippet: so that it may be used between processes distributed throughout a computer network. The hypothetical application of the system to
+Highlight words: between processes distributed a The of the to 
+4 Q0 CACM-1604 35 4.80544405668 BM25
+Snippet: a university computing center environment are presented. The data are subdivided according to certain characteristics of users and jobs to
+Highlight words: a environment are The are to of and to 
+4 Q0 CACM-2090 36 4.7720067226 BM25
+Snippet: Symbolic Expansion of Algebraic Expressions (Algorithm 377 $R2)) CACM March, 1970 Levine, M. J. algebra, symbolic algebra, symbolic multiplication, algebraic
+Highlight words: of 
+4 Q0 CACM-3137 37 4.77120491904 BM25
+Snippet: A Methodology for the Design of Distributed Information Systems A macro model of a distributed information system in presented. The
+Highlight words: A for the of Distributed A of a distributed in The 
+4 Q0 CACM-2402 38 4.76922939916 BM25
+Snippet: that the cross-correlation between a model and the correct structure cannot be computed because of a fundamental incompleteness in the
+Highlight words: the between a and the not of a in the 
+4 Q0 CACM-3098 39 4.75547235927 BM25
+Snippet: with Fishman's and Ahrens and Dieter's methods. The core storage requirements and programming effort for this method are similar to
+Highlight words: with and and The and for are to 
+4 Q0 CACM-1153 40 4.72240324076 BM25
+Snippet: A Fast Procedure for Generating Normal Random Variables* A technique for generating normally distributed random numbers is described. It is
+Highlight words: A Procedure for A for distributed 
+4 Q0 CACM-2249 41 4.71895900098 BM25
+Snippet: for generating outcomes on multivariate normal random vectors with a specified variance-covariance matrix are presented. A comparison is made to
+Highlight words: for on with a are A to 
+4 Q0 CACM-0298 42 4.6883390346 BM25
+Snippet: runs above and below the mean were applied to one-half million generated numbers lying within the interval (0,1) and to
+Highlight words: and the to the and to 
+4 Q0 CACM-2081 43 4.67389169055 BM25
+Snippet: Some Complete Calculi for Matrices A matrix calculus is introduced with the intention of developing data structures suitable for a
+Highlight words: Complete for A with the of for a 
+4 Q0 CACM-2196 44 4.61265030023 BM25
+Snippet: methods with but meager success. Only for special forms of the problem or for problems with a moderate number of
+Highlight words: with but for of the problem or for with a of 
+4 Q0 CACM-2098 45 4.59101148357 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-3032 46 4.5474279896 BM25
+Snippet: described as being practical because it is not optimal according to metrics developed for its analysis in this paper, and
+Highlight words: as not to for in and 
+4 Q0 CACM-2667 47 4.54283016695 BM25
+Snippet: distributions are compared with simple theoretical distributions (exponential, hyperexponential, and geometric). Other data show paging characteristics of tasks as a
+Highlight words: are with theoretical and of as a 
+4 Q0 CACM-1733 48 4.52145937207 BM25
+Snippet: Distribution of Indistinguishable Objects into Distinguishable slots (Algorithm [G6]) CACM June, 1968 Fenichel, R. R. object distributions, combinations, distribution numbers
+Highlight words: of 
+4 Q0 CACM-1941 49 4.52145937207 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-2847 50 4.51766017678 BM25
+Snippet: to (a), whereas Wallace's method is proportional to (a). Experimentation by Robinson and Lewis indicates that for small (a) the
+Highlight words: to a to a and for a the 
+4 Q0 CACM-2549 51 4.50134579672 BM25
+Snippet: Random Deviates from the Dipole Distribution [G5] (Algorithm A441) CACM January, 1973 Knop, R. E. random number, probability density, probability
+Highlight words: the 
+4 Q0 CACM-1778 52 4.47451606983 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-2812 53 4.41499683351 BM25
+Snippet: The ADS problem definition was supplemented with additional information in order to create a complete problem definition. The analyzed problem
+Highlight words: The problem with in to a complete problem The problem 
+4 Q0 CACM-2686 54 4.40225969709 BM25
+Snippet: the authors, except that the addition of another parameter complicates the problem of finding the parameter values to fit a
+Highlight words: the the of the problem of the to a 
+4 Q0 CACM-2259 55 4.39714552407 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-2123 56 4.38235582715 BM25
+Snippet: Generator of Random Numbers Satisfying the Poisson Distribution (Algorithm 369 $G5)) CACM January, 1970 Schaffer, H. E. Poisson distribution, random
+Highlight words: of the 
+4 Q0 CACM-2188 57 4.37535096452 BM25
+Snippet: between the graphics processor and its supporting data processing system. The work reported here develops an objective, quantitative design procedure
+Highlight words: between the and The work procedure 
+4 Q0 CACM-2427 58 4.35311773334 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-1714 59 4.35311773334 BM25
+Snippet: Procedure for the Normal Distribution (Algorithm 272 [S15]) CACM July, 1968 MacLaren, M. D. normal distribution function, error function, normal
+Highlight words: Procedure for the 
+4 Q0 CACM-0711 60 4.35273975599 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-2631 61 4.33931010271 BM25
+Snippet: distribution. This is more suited to implementation on storage devices. This method treats text as a string of characters rather
+Highlight words: to on as a of rather 
+4 Q0 CACM-2862 62 4.30847250238 BM25
+Snippet: events rather than every page reference event. This significantly reduces the required computation time in estimating the performance of the
+Highlight words: rather the in the of the 
+4 Q0 CACM-1918 63 4.30343569799 BM25
+Snippet: Distribution of Indistinguishable Objects into Distinguishable Slots (Algorithm 329 [G6]) CACM March, 1969 Gray, M. CA690309 JB February 20, 1978
+Highlight words: of 
+4 Q0 CACM-2649 64 4.30102120382 BM25
+Snippet: On the Distributions of Significant Digits and Roundoff Errors Generalized logarithmic law is derived for the distribution of the first
+Highlight words: On the of and for the of the 
+4 Q0 CACM-2565 65 4.29595693458 BM25
+Snippet: A Gaussian Pseudo-Random Number Generator (Algorithm 488) CACM December, 1974 Brent, R. P. random numbers, pseudo-random numbers, Gaussian distribution, normal
+Highlight words: A 
+4 Q0 CACM-1584 66 4.27442632558 BM25
+Snippet: Procedure for the Normal Distribution Functions (Algorithm 272 [S15]) CACM June, 1967 Hill, I. D. Joyce, S. A. CA670607l JB
+Highlight words: Procedure for the 
+4 Q0 CACM-3165 67 4.27174037993 BM25
+Snippet: segment on either side. The approximation algorithm presented operates on such an organization, eliminating the need for the recognition of
+Highlight words: on The on the for the of 
+4 Q0 CACM-2547 68 4.25823110028 BM25
+Snippet: union or intersection of two closed boundaries; and determine the neighboring boundaries to a point and the minimum distances between
+Highlight words: or of and the to a and the between 
+4 Q0 CACM-2078 69 4.25750801372 BM25
+Snippet: between objects or their arrangement are called space planning problems. The representational requirements for this problem area are defined and
+Highlight words: between or are The for problem are and 
+4 Q0 CACM-3043 70 4.23985562238 BM25
+Snippet: concept for concurrent processes without common variables is introduced. These processes communicate and synchronize by means of procedure calls and
+Highlight words: for processes without processes and of procedure calls and 
+4 Q0 CACM-1894 71 4.22790188814 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-0758 72 4.21810481389 BM25
+Snippet: and CPA computer programs is provided. The major components of these programs as well as their purposes and interrelationships are
+Highlight words: and The of as as and are 
+4 Q0 CACM-2828 73 4.21332985899 BM25
+Snippet: or a geometric hierarchy, five significant improvements to current techniques are possible. First, the range of complexity of an environment
+Highlight words: or a to are the of of environment 
+4 Q0 CACM-1072 74 4.21029651499 BM25
+Snippet: with one scan of the EQUIVALENCE declarations. The method is applicable in any problem in which it is necessary to
+Highlight words: with of the The in problem in to 
+4 Q0 CACM-2900 75 4.20533178671 BM25
+Snippet: a file-is known to be, in general, polynomial complete. Heuristics and other aids to finding optimal, or near-optimal, solutions are
+Highlight words: a to in complete and to or are 
+4 Q0 CACM-1716 76 4.20501967305 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-1081 77 4.19906419165 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-1944 78 4.18804725512 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-1780 79 4.17151976241 BM25
+Snippet: Harmonic Analysis for Symmetrically Distributed Data (Algorithm 320 [C6]) CACM February, 1968 Hunter, D. B. harmonic analysis, cosine series, sine
+Highlight words: for Distributed 
+4 Q0 CACM-2057 80 4.14706062181 BM25
+Snippet: Random Vectors Uniform in Solid Angle (Algorithm 381 $G5)) CACM May, 1970 Knop, R. E. random number, random vector, random
+Highlight words: in 
+4 Q0 CACM-2334 81 4.14434953323 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-2566 82 4.14434953323 BM25
+Snippet: Exact Cumulative Distribution of the Kolmogorov-Smirnov Statistic for Small Samples (Algorithm A487) CACM December, 1974 Pomeranz, J. Kolmogorov-Smirnov test, K-S
+Highlight words: of the for 
+4 Q0 CACM-3141 83 4.14288000587 BM25
+Snippet: processes arranged in a circle, in which no central controller exists and the number of processes is not known a
+Highlight words: processes in a in and the of processes not a 
+4 Q0 CACM-1885 84 4.13791317091 BM25
+Snippet: and implemented on the IBM 360/67 computer. The system deals with the transformational model of syntax, along the lines of
+Highlight words: and on the The with the of the of 
+4 Q0 CACM-2187 85 4.13178212724 BM25
+Snippet: and activities that exist within the discipline, as well as the relations between them. An approach to curriculum planning in
+Highlight words: and the as as the between to in 
+4 Q0 CACM-2924 86 4.12631853124 BM25
+Snippet: a modified lofting method on which sectional curves are represented by uniform B-splines and the surface is in terpolated between
+Highlight words: a on are and the in between 
+4 Q0 CACM-3151 87 4.12100697678 BM25
+Snippet: algorithm is described for the construction in real-time of the convex hull of a set of n points in the
+Highlight words: for the in of the of a of in the 
+4 Q0 CACM-2457 88 4.1174421296 BM25
+Snippet: with emphasis on the difference between the theoretical and practical approaches; second, presentation and examination of various known methods for
+Highlight words: with on the between the theoretical and and of for 
+4 Q0 CACM-1583 89 4.08235194919 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-2967 90 4.07808483165 BM25
+Snippet: Structure, A comparison of the hardware approach with the software simulation illustrates the advantages of the hardware associative memory in
+Highlight words: A of the with the the of the in 
+4 Q0 CACM-3119 91 4.06481677807 BM25
+Snippet: The Impact of Distributions and Disciplines on Multiple Processor Systems Simple queueing models are used to study the performance tradeoffs
+Highlight words: The of and on are to the 
+4 Q0 CACM-3010 92 4.04015848891 BM25
+Snippet: with special attention to the complexity of value structures. Computer science students, who are closely associated with technology, contrast with
+Highlight words: with to the of are with with 
+4 Q0 CACM-1514 93 4.02395157117 BM25
+Snippet: are derived as a function of: (1) the prior proportion of omitted terms, and (2) the coefficient of separation between
+Highlight words: are as a of the of and the of between 
+4 Q0 CACM-2275 94 4.0218493364 BM25
+Snippet: a curve with properties which derive from properties of the (as yet unknown) function; (2) stabilize the computation for the
+Highlight words: a with of the as the for the 
+4 Q0 CACM-2734 95 4.02136183545 BM25
+Snippet: on allocation efficiency. For exponential and hyperexponential distributions of requests, first-fit outperformed best-fit; but for normal and uniform distributions, and
+Highlight words: on For and of but for and and 
+4 Q0 CACM-2548 96 4.01377380223 BM25
+Snippet: 
+Highlight words: 
+4 Q0 CACM-2333 97 4.00536453967 BM25
+Snippet: Random Vectors Uniform is Solid Angle (Algorithm R381) CACM June, 1972 Schrack, G. F. random vector generator, points uniform on
+Highlight words: on 
+4 Q0 CACM-1341 98 4.00125770684 BM25
+Snippet: In this essay some of these questions are posed, and the general attitude we must take in pursuing the problem
+Highlight words: In of are and the in the problem 
+4 Q0 CACM-1845 99 4.00094361637 BM25
+Snippet: structure is delineated. This concept provides more efficient and cost-effective utilization of the memory as well as increased flexibility in
+Highlight words: and of the as as in 
+4 Q0 CACM-2313 100 4.00041317075 BM25
+Snippet: to illustrate the splitting of the concepts and the structural relations which exist between these concepts at each point in
+Highlight words: to the of the and the between in 
+5 Q0 CACM-1194 1 8.10177574618 BM25
+Snippet: of the information system are direct user access via on-line teletypewriter console, direct user access to all details of the
+Highlight words: of the are user user to of the 
+5 Q0 CACM-1410 2 7.4962699925 BM25
+Snippet: the user inputs and the program activity. This paper provides a statistical description of the user input process in the
+Highlight words: the user and the of the user the 
+5 Q0 CACM-2535 3 7.42746800268 BM25
+Snippet: improvement in the performance of the computer (model), in the sense that time-shared scheduling delays are reduced, these improvements are
+Highlight words: the of the the are improvements are 
+5 Q0 CACM-1892 4 6.22388371359 BM25
+Snippet: Implications of the results to time-shared system design and programming are discussed, and a calculation of the optimal degree of
+Highlight words: of the to design and are and of the of 
+5 Q0 CACM-1696 5 6.08638326087 BM25
+Snippet: for dealing with certain sequences of stochastic matrices is discussed. Computation times are investigated experimentally and compared with those of
+Highlight words: with of are and with of 
+5 Q0 CACM-0268 6 5.9092938939 BM25
+Snippet: Stochastic Evaluation of a Static Storage Allocation CACM October, 1961 Cohen, L. J. CA611013 JB March 16, 1978 12:48 PM
+Highlight words: of 
+5 Q0 CACM-2882 7 5.61527945426 BM25
+Snippet: organizations and hybrid combinations of these systems. Effectiveness of the methodology is demonstrated by using the model to study the
+Highlight words: and of Effectiveness of the the to the 
+5 Q0 CACM-1233 8 5.55312172129 BM25
+Snippet: are applied to the use of the symbols appearing in the proposed American Standard Flowchart Symbols and not with the
+Highlight words: are to the of the the and with the 
+5 Q0 CACM-1540 9 5.52928671849 BM25
+Snippet: With Section Preference An algorithm for assignment of students to classes in a fixed time schedule that allows students to
+Highlight words: With of to to 
+5 Q0 CACM-3020 10 5.48180690154 BM25
+Snippet: example and the final result of the process is displayed. Our performance comparison results are presented and our conclusions are
+Highlight words: and the of the are and are 
+5 Q0 CACM-1435 11 5.47368656844 BM25
+Snippet: to provide background information on the existing literature on experimental design techniques which may be applicable to the design of
+Highlight words: to on the on design to the design of 
+5 Q0 CACM-2065 12 5.44973364051 BM25
+Snippet: of Biomedical Images A preliminary description of the software for a computer-display system is given with special emphasis on the
+Highlight words: of of the with on the 
+5 Q0 CACM-0020 13 5.44809823843 BM25
+Snippet: to an iterative procedure for the solution of an equation, accelerates the rate of convergence if the iteration converges and
+Highlight words: to the of the of the and 
+5 Q0 CACM-3120 14 5.43945328597 BM25
+Snippet: technique has been applied to the construction of an Algol 68 compiler. Three examples from that implementation are described and
+Highlight words: to the of implementation are and 
+5 Q0 CACM-1359 15 5.37900560288 BM25
+Snippet: with data string manipulation is developed in accordance with a generalized data filtering concept. This results in the implementation of
+Highlight words: with with the implementation of 
+5 Q0 CACM-2742 16 5.34827394005 BM25
+Snippet: scanning future event lists in discrete event simulations. There models are presented, all of which improve in effectiveness as the
+Highlight words: are of effectiveness the 
+5 Q0 CACM-1235 17 5.34827394005 BM25
+Snippet: rules are employed to code additional words. Finally, the remaining words are assigned to one class or another on the
+Highlight words: are to the are to on the 
+5 Q0 CACM-2523 18 5.21023514547 BM25
+Snippet: regions with others according to criteria based on topology and size. The method has been applied to the construction of
+Highlight words: with to on and The to the of 
+5 Q0 CACM-3059 19 5.18760566653 BM25
+Snippet: The models are formulated in terms of CPU:I/O and I/O:I/O overlap and applied to the analysis of these problems. The
+Highlight words: The are of and and to the of The 
+5 Q0 CACM-2767 20 5.16891904949 BM25
+Snippet: are tested with a set of typical stochastic scheduling distributions especially chosen to show the advantages and limitations of the
+Highlight words: are with of to the and of the 
+5 Q0 CACM-1216 21 5.14735142787 BM25
+Snippet: made of list-processing languages. The chain rule is applied and the result is edited to produce results as elegant and
+Highlight words: of The and the to and 
+5 Q0 CACM-2396 22 4.93789042948 BM25
+Snippet: editing and reporting the contents of its own memory to an indirect form of question answering. Examples are presented to
+Highlight words: editing and the of to of are to 
+5 Q0 CACM-1637 23 4.91567081205 BM25
+Snippet: the variance of the sample mean relates to the spectrum of the generating process, and estimation of the quantities of
+Highlight words: the of the to the of the and of the of 
+5 Q0 CACM-0078 24 4.89655223843 BM25
+Snippet: the normal activity of the numerical analyst.) A number of other papers have applied particular devices to particular problems. The
+Highlight words: the of the of papers to The 
+5 Q0 CACM-1180 25 4.88390730695 BM25
+Snippet: Several complete programs of imperatives are given to show a few applications of the language. CACM November, 1965 Cohen, I.
+Highlight words: of are to of the I 
+5 Q0 CACM-0942 26 4.85885478731 BM25
+Snippet: and a set of FORTRAN subroutines has been written to perform these. The main purpose of this note is to
+Highlight words: and of to The of to 
+5 Q0 CACM-3153 27 4.82052414279 BM25
+Snippet: system with external arrivals are studied. The object is to investigate the effect of the memory alocation parameters on the
+Highlight words: with are The to the of the on the 
+5 Q0 CACM-3013 28 4.79153583661 BM25
+Snippet: operators applied to a set of test pictures are compared with each other and with the standard digital Laplacian and
+Highlight words: to of are with and with the and 
+5 Q0 CACM-1925 29 4.79153583661 BM25
+Snippet: on the contour map. Both of these techniques have been applied to the problem of locating the ground track of
+Highlight words: on the of to the of the of 
+5 Q0 CACM-2137 30 4.69175964677 BM25
+Snippet: Environment The system described herein employs the block concept, and that of global and local variables, in addition to the
+Highlight words: The the and of and to the 
+5 Q0 CACM-3165 31 4.65207955448 BM25
+Snippet: segment on either side. The approximation algorithm presented operates on such an organization, eliminating the need for the recognition of
+Highlight words: on The on the the of 
+5 Q0 CACM-1169 32 4.65207955448 BM25
+Snippet: the minimum of a real function F(P), and can be applied to other placement problems. Experimental results are presented with
+Highlight words: the of and to are with 
+5 Q0 CACM-3030 33 4.44941964857 BM25
+Snippet: specification, implementation, and proof. We apply this method to a significant list processing problem and also discuss a number of
+Highlight words: implementation and to and of 
+5 Q0 CACM-1468 34 4.44712786782 BM25
+Snippet: Syntax-Directed Interpretation of Classes of Pictures A descriptive scheme for classes of pictures based on labeling techniques using parallel processing
+Highlight words: of of of on 
+5 Q0 CACM-3138 35 4.43426168128 BM25
+Snippet: ssive application of the Givens transformation in modified (more efficient) form. These ideas are illustrated with an implementation of the
+Highlight words: of the are with implementation of the 
+5 Q0 CACM-2931 36 4.41169549064 BM25
+Snippet: on the possibilities of formalization. More recently, precise comparisons in the efficiency of decision methods have become available through the
+Highlight words: on the of the efficiency of the 
+5 Q0 CACM-1671 37 4.39933355864 BM25
+Snippet: computer and is designed to be used on-line in interactive fashion, with control returned to the user after each command
+Highlight words: and to with to the user command 
+5 Q0 CACM-1307 38 4.37475315911 BM25
+Snippet: language, it is essential that he be aided in composing commands to the computer. In the system described, the user
+Highlight words: essential to the the the user 
+5 Q0 CACM-1003 39 4.25158875686 BM25
+Snippet: with experimental data of a known biochemical reaction. The construction of computer programs based on the direct statement of the
+Highlight words: with of The of on the of the 
+5 Q0 CACM-2753 40 4.20168068515 BM25
+Snippet: describe the objects and the layout. This representation allows topological and metric constraints to be tested and the design to
+Highlight words: the and the and to and the design to 
+5 Q0 CACM-2453 41 4.01364193533 BM25
+Snippet: previously published heuristic algorithms. Compared to the optimal algorithm of Reinwald and Soland, this algorithm is easy to code and
+Highlight words: to the of and to and 
+5 Q0 CACM-2252 42 3.82685690522 BM25
+Snippet: of changes without frequent recompilation of entire routines. The essential points of the method are: (1) the syntax of the
+Highlight words: of of The essential of the are the of the 
+5 Q0 CACM-1051 43 3.63567372022 BM25
+Snippet: several examples are given to illustrate the use of multiword lists. This paper attempts to draw together various recent papers
+Highlight words: are to the of to papers 
+5 Q0 CACM-0111 44 3.60173291459 BM25
+Snippet: accuracy and rapid convergence are realized. Numerical examples are shown to illustrate the pitfalls and to show how these are
+Highlight words: and are are to the and to are 
+5 Q0 CACM-0293 45 3.57720183984 BM25
+Snippet: The Applied Mathematics Laboratory of the David W. Taylor Model Basin CACM September, 1961 Richstone, M. CA610901 JB March 16,
+Highlight words: The of the 
+5 Q0 CACM-0927 46 3.56755546279 BM25
+Snippet: Linear Programming Applied to Ultraviolet Absorption Spectroscopy CACM February, 1963 White, W. C. Shapiro, B. Pratt, A. W. CA630206 JB
+Highlight words: to 
+5 Q0 CACM-1441 47 3.52296457946 BM25
+Snippet: Gear are compared with classic Runge-Kutta, Kutta-Nystrom and Adams methods. Some of the newer one-step methods due to Butcher are
+Highlight words: are with and of the to are 
+5 Q0 CACM-2000 48 3.49579309656 BM25
+Snippet: and applied to give a significant variation of the Goodman-Lance method for the solution of two-point boundary value problems. The
+Highlight words: and to of the the of The 
+5 Q0 CACM-1438 49 3.45852170177 BM25
+Snippet: computing the index, or winding number, is developed and applied to the problem of finding zeros of functions from the
+Highlight words: the and to the of of the 
+5 Q0 CACM-1563 50 3.42051572014 BM25
+Snippet: finding a Hamilton path in a graph. A graph-theoretic justification for the method is given. CACM July, 1967 Pohl, I.
+Highlight words: the I 
+5 Q0 CACM-2705 51 3.41020989207 BM25
+Snippet: language types speaks for programming language design based on general, abstract constructs. By analogy with incidents of the history of
+Highlight words: design on with of the of 
+5 Q0 CACM-2409 52 3.36412494279 BM25
+Snippet: Wiener-Hopf technique may be applied. It is furthermore assumed that Fourier transforms are known explicitly. The approximate solution depends on
+Highlight words: are The on 
+5 Q0 CACM-1673 53 3.35244408317 BM25
+Snippet: problems for linear and mildly nonlinear wave equations. Several illustrative examples are offered to demonstrate the ease with which the
+Highlight words: and are to the with the 
+5 Q0 CACM-1110 54 3.35244408317 BM25
+Snippet: described which, when applied to a certain class of parabolic partial differential equations, reduces the problem to a system of
+Highlight words: to of the to of 
+5 Q0 CACM-2210 55 3.32570792668 BM25
+Snippet: with loops or with recursion, the principle of mathematical induction must be applied. The relation between the version of the
+Highlight words: with with the of The the of the 
+5 Q0 CACM-1886 56 3.31632992735 BM25
+Snippet: are to be compiled, methods are presented for increasing the efficiency of the object code produced by first factoring the
+Highlight words: are to are the efficiency of the the 
+5 Q0 CACM-1382 57 3.30703905841 BM25
+Snippet: Desired Computer Impact on Undergraduate Mathematics Three matters relating to the theme of the Symposium are discussed here. The author
+Highlight words: on to the of the are The 
+5 Q0 CACM-1383 58 3.29966801767 BM25
+Snippet: in mathematics. The importance of applied logic in human affairs is changed by the existence of the "logical engine." The
+Highlight words: The of human the of the The 
+5 Q0 CACM-1631 59 3.29235091185 BM25
+Snippet: The tests are described and the results of the tests are presented. These particular tests indicate that the numbers are
+Highlight words: The are and the of the are the are 
+5 Q0 CACM-1008 60 3.29235091185 BM25
+Snippet: Meetings with a Computer Computer scheduling of papers as it was developed for the 1960 meeting of the Federation of
+Highlight words: with of papers the of the of 
+5 Q0 CACM-2836 61 3.288712339 BM25
+Snippet: Weighted Derivation Trees The nodes of a weighted derivation tree are associated with weighting functions over the vocabulary of a
+Highlight words: The of are with the of 
+5 Q0 CACM-2174 62 3.2814746717 BM25
+Snippet: The original work of Gale and Shapley on an assignment method using the stable marriage criterion has been extended to
+Highlight words: The of and on the to 
+5 Q0 CACM-1809 63 3.23911539787 BM25
+Snippet: The Numerical Analysis program in the Computer Science Department should emphasize an awareness of the problems of computer implementation and
+Highlight words: The the of the of implementation and 
+5 Q0 CACM-1707 64 3.23911539787 BM25
+Snippet: of Positive Test Matrices with Known Positive Spectra Sufficient conditions are given for a real matrix to be similar to
+Highlight words: of with are to to 
+5 Q0 CACM-0095 65 3.23911539787 BM25
+Snippet: when analog methods are applied can sometimes be expanded to an equivalent set of equations which do not contain the
+Highlight words: are to of the 
+5 Q0 CACM-1554 66 3.23911539787 BM25
+Snippet: computer and automatic plotter have been used to generate three-dimensional stereoscopic movies of the three-dimensional parallel and perspective projections of
+Highlight words: and to of the and of 
+5 Q0 CACM-2185 67 3.23222673687 BM25
+Snippet: the algorithm are the simplicity of the test which determines if the algorithm should be applied and the degree to
+Highlight words: the are the of the the and the to 
+5 Q0 CACM-2900 68 3.22880012015 BM25
+Snippet: the problem of finding the optimal set of network sites at which to locate copies of a file-is known to
+Highlight words: the of the of to of to 
+5 Q0 CACM-2844 69 3.22538520505 BM25
+Snippet: Heaps Applied to Event Driven Mechanisms CACM July, 1976 Gonnet, G. H. discrete event simulation, event-scanning mechanisms, priority queues, heaps
+Highlight words: to 
+5 Q0 CACM-1147 70 3.22198191192 BM25
+Snippet: of boundary values to one of initial values. Comments are made concerning some numerical results of applying the method to
+Highlight words: of to of are of the to 
+5 Q0 CACM-2953 71 3.22198191192 BM25
+Snippet: of recursion removal involves the use of one or more stacks, and the solutions are compared on the basis of
+Highlight words: of the of and the are on the of 
+5 Q0 CACM-1116 72 3.21520987701 BM25
+Snippet: References are given which relate the timetable problem to theorems on matrices of zeros and ones, and to theorems on
+Highlight words: are the to on of and and to on 
+5 Q0 CACM-0298 73 3.21184097995 BM25
+Snippet: runs above and below the mean were applied to one-half million generated numbers lying within the interval (0,1) and to
+Highlight words: and the to the and to 
+5 Q0 CACM-3175 74 3.20180185492 BM25
+Snippet: a Relaxation Algorithm Substitution ciphers are codes in which each letter of the alphabet has one fixed substitute, and the
+Highlight words: are of the and the 
+5 Q0 CACM-2062 75 3.19516466241 BM25
+Snippet: Model Four different sequential sampling procedures are applied to the analysis of data generated by a computer simulation experiment with
+Highlight words: are to the of with 
+5 Q0 CACM-2019 76 3.18529074785 BM25
+Snippet: class of characters versus the amount between classes is used to evaluate the degree of normalization achieved with respect to
+Highlight words: of the to the of with to 
+5 Q0 CACM-2263 77 3.15306454347 BM25
+Snippet: shown to be equally valid for tables including such a rule. Both algorithms are compared with existing ones and are
+Highlight words: to are with and are 
+5 Q0 CACM-2268 78 3.14989831392 BM25
+Snippet: polynomial and rational). The testing procedure is described together with the evaluation criteria applied. A set of test problems on
+Highlight words: and The with the of on 
+5 Q0 CACM-2997 79 3.14989831392 BM25
+Snippet: in two and three dimensions can be determined with O(n log n) operations. The presented algorithms use the "divide and
+Highlight words: and with The the and 
+5 Q0 CACM-2555 80 3.13421581792 BM25
+Snippet: to within any desired tolerance on a computer which performs variable-precision arithmetic operations. The Recomputation Algorithm can be applied to
+Highlight words: to on The to 
+5 Q0 CACM-2811 81 3.12801104103 BM25
+Snippet: to detect and measure structural variations. The waveform parsing system is modeled on a compiler-compiler system and allows the user
+Highlight words: to and The on and the user 
+5 Q0 CACM-2826 82 3.10962441478 BM25
+Snippet: the design stage. Its compatibility with the basic key frame animation technique permits skeleton control to be applied selectively to
+Highlight words: the design with the to to 
+5 Q0 CACM-2819 83 3.1065925782 BM25
+Snippet: the file. Four new algorithms for this operation are described and compared. Various parameters in the algorithms are optimized to
+Highlight words: the are and the are to 
+5 Q0 CACM-1948 84 3.1065925782 BM25
+Snippet: the more important algorithms in use are described and contrasted, and results which have been obtained using existing programs are
+Highlight words: the are and and are 
+5 Q0 CACM-1678 85 3.09755183354 BM25
+Snippet: science. A brief catalog description of each course is applied and the role of each of the courses in the
+Highlight words: of and the of of the the 
+5 Q0 CACM-1911 86 3.09455632456 BM25
+Snippet: conditions under which they are to be applied, and conditions determining the sequence of subtrees on which they are to
+Highlight words: are to and the of on are to 
+5 Q0 CACM-1625 87 3.07971191542 BM25
+Snippet: to programs written in an ALGOL-like language are discussed. The simplifications are based on the form of the program and
+Highlight words: to are The are on the of the and 
+5 Q0 CACM-2903 88 3.07676929436 BM25
+Snippet: These algorithms are then subjected to a second transformation, a method of recursion elimination called "tabulation," to produce programs with
+Highlight words: are to of to with 
+5 Q0 CACM-2988 89 3.0709099026 BM25
+Snippet: computer systems. Empirical analyses and analytic studies based on applying this methodology to an actual multiaccess in teractive system are
+Highlight words: and on to are 
+5 Q0 CACM-2494 90 3.0679930313 BM25
+Snippet: with any hierarchical scheme of cluster analysis, is described and illustrated. The graphic principle used is the representation of the
+Highlight words: with of and The the of the 
+5 Q0 CACM-0440 91 3.0679930313 BM25
+Snippet: on the basis of names and other personal particulars. The underlying problem is that of making nearly maximum use of
+Highlight words: on the of and The of of 
+5 Q0 CACM-2810 92 3.05066824764 BM25
+Snippet: professional status is not bestowed; it is earned. However, universities and industry, specifically, can make certain improvements to help the
+Highlight words: and improvements to the 
+5 Q0 CACM-1721 93 3.03928292542 BM25
+Snippet: point to be determined is identified with such a singular point and appropriate modifications are applied to the system to
+Highlight words: to with and are to the to 
+5 Q0 CACM-1703 94 3.03645673418 BM25
+Snippet: accessible to the user to allow local variations with the language. Explicit standardization of the language is undertaken at the
+Highlight words: to the user to with the of the the 
+5 Q0 CACM-2970 95 3.02244436106 BM25
+Snippet: to check the normality assumption on which the sequential procedure relies. The paper illustrates the method using the empty and
+Highlight words: to the on the The the the and 
+5 Q0 CACM-2186 96 3.00862562435 BM25
+Snippet: method and is designed to improve the speed of solution and the storage requirements to the point where real-time implementation
+Highlight words: and to the of and the to the implementation 
+5 Q0 CACM-3068 97 3.00862562435 BM25
+Snippet: of an operating system which are necessary to assure reliable enforcement of security. The application of this approach to the
+Highlight words: of are to of The of to the 
+5 Q0 CACM-1930 98 2.97888030383 BM25
+Snippet: quality and efficiency suffice. Typically, this occurs for library functions (like random number generation and in core sorting) which are
+Highlight words: and efficiency like and are 
+5 Q0 CACM-1423 99 2.97356585376 BM25
+Snippet: to the conventional orthogonalization method for inverting non-singular matrices, which gives the generalized inverse with little extra effort and with
+Highlight words: to the the with and with 
+5 Q0 CACM-1433 100 2.96827949784 BM25
+Snippet: effort is made to design more efficient algorithms. This paper is meant to support the effort. It is attempted to
+Highlight words: to design to the to 
+6 Q0 CACM-2318 1 13.7050828398 BM25
+Snippet: the interrelationships between models and other methods for evaluating the performance of computer systems and establishes circumstances under which the
+Highlight words: the and the of and the 
+6 Q0 CACM-3048 2 13.1685459328 BM25
+Snippet: The experiments reveal that, for the case study, the major bottlenecks in the system are the memory unit and the
+Highlight words: The the the in the are the and the 
+6 Q0 CACM-3070 3 12.1949998395 BM25
+Snippet: processors. The accuracy and efficiency of the hybrid technique are demonstrated by comparing the result and computational costs of the
+Highlight words: The and of the are the and of the 
+6 Q0 CACM-2894 4 11.5433732587 BM25
+Snippet: instead of the more frequently used in ternal system measurement techniques. The NBS Network Measurement System is employed as the
+Highlight words: of the in The the 
+6 Q0 CACM-2542 5 11.3051745422 BM25
+Snippet: design is not evaluated before it is actually implemented. In this paper the reasons for this failure are explored, and
+Highlight words: not In the are and 
+6 Q0 CACM-3089 6 11.285366845 BM25
+Snippet: ensure reliable information processing. The model is used to derive the principal performance measures, including availability, response time, and the
+Highlight words: The the and the 
+6 Q0 CACM-3119 7 11.0481154571 BM25
+Snippet: The Impact of Distributions and Disciplines on Multiple Processor Systems Simple queueing models are used to study the performance tradeoffs
+Highlight words: The of and on are the 
+6 Q0 CACM-2892 8 10.9981268934 BM25
+Snippet: Overhead in the Arpanet The form, extent, and effect of the communication line overhead in the ARPANET are considered. The
+Highlight words: in the The and of the in the are The 
+6 Q0 CACM-2741 9 10.9900879018 BM25
+Snippet: and evaluate the performance of computing systems is proposed. It is based on a technique of variable aggregation and the
+Highlight words: and the of on of and the 
+6 Q0 CACM-2882 10 10.8032435056 BM25
+Snippet: by using the model to study the effect of database organizations in data retrieval systems. In particular, the impact of
+Highlight words: the the of in In the of 
+6 Q0 CACM-2951 11 10.7981213403 BM25
+Snippet: in participating in the vast store of resources available on a network. Analytical, simulation, and statistical performance evaluation tools are
+Highlight words: in in the of on and are 
+6 Q0 CACM-1032 12 10.492143638 BM25
+Snippet: and not retrieving the nonrelevant, and penalizes the system for the escaped relevant documents and false drops. The inadequacies of
+Highlight words: and not the and the the and The of 
+6 Q0 CACM-1827 13 10.3988770204 BM25
+Snippet: in order to explain the implementation of the DCF. Events in the system are identified and recorded from within the
+Highlight words: in the of the in the are and the 
+6 Q0 CACM-2571 14 10.3554398036 BM25
+Snippet: develops a simple model of the Execution Task Monitor and employs it to study the effectiveness of the monitor in
+Highlight words: of the and the of the in 
+6 Q0 CACM-2452 15 10.2236805036 BM25
+Snippet: characterization and device-related specifications. Based on these estimates, an appropriate file structure may be selected for the specific situation. The
+Highlight words: and on the The 
+6 Q0 CACM-2711 16 10.2049100326 BM25
+Snippet: in these circumstances the value of an indexing system may be expressible as a function of the density of the
+Highlight words: in the of of the of the 
+6 Q0 CACM-2319 17 10.057426946 BM25
+Snippet: and necessary in the near future. Such a design philosophy will clearly have a severe impact on the way we
+Highlight words: and in the on the we 
+6 Q0 CACM-2984 18 9.75591169953 BM25
+Snippet: performance in terms of a cost/utilization factor and a measure of imbalance. These coefficients indicate the extent to which the
+Highlight words: in of and of the the 
+6 Q0 CACM-2812 19 9.70698735839 BM25
+Snippet: Analysis and Design of Information Systems This paper describes the use of computer-aided analysis for the design and development of
+Highlight words: and of the of the and of 
+6 Q0 CACM-2535 20 9.53311925908 BM25
+Snippet: little or no change in the computer-communications system performance. Analytical and simulation results are based on the model of the
+Highlight words: in the and are on the of the 
+6 Q0 CACM-2862 21 9.44529283556 BM25
+Snippet: the inter-page-fault interval distribution, the probability of the number of distinct pages being referenced during an inter-page-fault interval, etc. are
+Highlight words: the the of the of are 
+6 Q0 CACM-2988 22 9.43304784474 BM25
+Snippet: memory size and workload memory requirements in queueing network models of computer systems. Empirical analyses and analytic studies based on
+Highlight words: and in of and on 
+6 Q0 CACM-2522 23 9.42809212212 BM25
+Snippet: on the working set principle, presents data to permit analysis of its behavior, and indicates future directions of research on
+Highlight words: on the of and of on 
+6 Q0 CACM-1518 24 9.30038276973 BM25
+Snippet: reports on the applicability of that technique to System/360. The paper describes an experimental model of System/360-its hardware, software, and
+Highlight words: on the of The of and 
+6 Q0 CACM-3136 25 9.29504944535 BM25
+Snippet: developed to study the relationships between system price and hardware performance. Single measures of price/performance such as "Grosch's Law" are
+Highlight words: the and of are 
+6 Q0 CACM-1199 26 9.01371813881 BM25
+Snippet: decisions on experience; in most instances, the benefits of comparable experience for a given problem situation are not available. In
+Highlight words: on in the of are not In 
+6 Q0 CACM-1680 27 8.96368234164 BM25
+Snippet: programs can be incorporated into instructional material without reprogramming. Illustrations of the various applications are presented and their implications are
+Highlight words: of the are and are 
+6 Q0 CACM-1653 28 8.72313600227 BM25
+Snippet: are examined. Throughput, turnaround, and availability are defined as fundamental measures of performance; overhead and CPU speed are placed in
+Highlight words: are and are of and are in 
+6 Q0 CACM-1908 29 8.63434856549 BM25
+Snippet: as nonprogrammers, are using the computer as an aid in decision-making and problem-solving rather than as a programming end in
+Highlight words: are the in and in 
+6 Q0 CACM-2859 30 8.62022686666 BM25
+Snippet: the limiting behavior of the system yields approximate results for the simple model and also suggests that the results are
+Highlight words: the of the the and the are 
+6 Q0 CACM-2634 31 8.57670263029 BM25
+Snippet: selection and use, tests were made for each of these systems, and the results are summarized as to cost and
+Highlight words: and of and the are and 
+6 Q0 CACM-3028 32 8.52046085049 BM25
+Snippet: impact of Manchester innovations in these and other areas is discussed, and the contemporary performance of the Mark I and
+Highlight words: of in and and the of the and 
+6 Q0 CACM-2245 33 8.47611098244 BM25
+Snippet: accurate replica of a production environment for the testing of variations in the system. At the same time alterations in
+Highlight words: of the of in the the in 
+6 Q0 CACM-2268 34 8.47528817003 BM25
+Snippet: on which the programs were tested is included in an appendix. For the particular problems and criteria used in the
+Highlight words: on the in the and in the 
+6 Q0 CACM-3072 35 8.45569269045 BM25
+Snippet: systems are presented. The basic control variables used are the data-flow rates for the processes executing on the CPU. The
+Highlight words: are The are the the on the The 
+6 Q0 CACM-3059 36 8.37031229054 BM25
+Snippet: The models are formulated in terms of CPU:I/O and I/O:I/O overlap and applied to the analysis of these problems. The
+Highlight words: The are in of and and the of The 
+6 Q0 CACM-1719 37 8.36806014678 BM25
+Snippet: types, and cost of data processing systems are causing serious re-examination within government and industry of the criteria for and
+Highlight words: and of are and of the and 
+6 Q0 CACM-2798 38 8.31578409183 BM25
+Snippet: average number of memory modules in operation during a memory cycle. Results of the simulations and an analytical study are
+Highlight words: of in of the and are 
+6 Q0 CACM-2344 39 8.2552380331 BM25
+Snippet: system performance in a predictable manner and would not benefit from optimization. Features not normally under the control of the
+Highlight words: in and not not the of the 
+6 Q0 CACM-3088 40 8.21211221307 BM25
+Snippet: of identical CPU's I/O processors, main storage partitions and user tasks. Examples are provided to illustrate the use of the
+Highlight words: of and are the of the 
+6 Q0 CACM-1938 41 8.12268620137 BM25
+Snippet: to utilize the full resources of the system that makes quantitative evaluation of time-sharing systems particularly difficult. Six criteria are
+Highlight words: the of the of particularly are 
+6 Q0 CACM-1805 42 7.98107611249 BM25
+Snippet: mode of computer operation in which two or more programs are concurrently in processor memory and proceeding, each using the
+Highlight words: of in are in and the 
+6 Q0 CACM-1542 43 7.8564126921 BM25
+Snippet: The system is described and results are given in terms of microprogram and main storage space required and compiler and
+Highlight words: The and are in of and and and 
+6 Q0 CACM-2990 44 7.77338672733 BM25
+Snippet: proofs are difficult to construct for the average case. In the present study, retrieval evaluation is based on optimizing the
+Highlight words: are the In the on the 
+6 Q0 CACM-2372 45 7.75507883391 BM25
+Snippet: whose elements are decision rules and whose row and column indices are users and data items respectively. A set of
+Highlight words: are and and are and of 
+6 Q0 CACM-1517 46 7.75485450414 BM25
+Snippet: We illustrate, compare, and evaluate these techniques. The paper adopts the position that the particular technique of analysis (possibly not
+Highlight words: We and The the the of not 
+6 Q0 CACM-1699 47 7.73725368203 BM25
+Snippet: on interactive (man-machine) language and on some of the mechanical and psychological limitations in their design, were conducted at the
+Highlight words: on and on of the and in the 
+6 Q0 CACM-1344 48 7.6981856565 BM25
+Snippet: and random analysis of variance models are considered. A procedure for obtaining variance components and calculated F statistics for the
+Highlight words: and of are and the 
+6 Q0 CACM-1698 49 7.67085709716 BM25
+Snippet: bounds can be set on overall buffer requirements? Answers to these and similar questions are needed in certain aspects of
+Highlight words: on and are in aspects of 
+6 Q0 CACM-2375 50 7.65013018957 BM25
+Snippet: time (system oriented)and expected waiting time (individual I/O request oriented). Both analytical and simulation results are obtained. The variance of
+Highlight words: and and are The of 
+6 Q0 CACM-1526 51 7.59334399216 BM25
+Snippet: of the CPU) when user programs are typical of those arising from an interactive time sharing environment. The effect of
+Highlight words: of the are of The of 
+6 Q0 CACM-2849 52 7.51526735016 BM25
+Snippet: their destinations on the Ether is distributed among the receiving stations using packet address recognition. Design principles and implementation are
+Highlight words: on the the and are 
+6 Q0 CACM-1572 53 7.50790785781 BM25
+Snippet: not respond to changes in the manner that intuition would suggest, and there are few guides to assist in the
+Highlight words: not in the and are in the 
+6 Q0 CACM-2681 54 7.50074339366 BM25
+Snippet: process may introduce before the original performance of the system is degraded. Alternative approaches to repacking are discussed, and the
+Highlight words: the of the are and the 
+6 Q0 CACM-2720 55 7.49647270181 BM25
+Snippet: represented by the probability density function of the sum of two uniform distributions. Total response time of the set of
+Highlight words: the of the of of the of 
+6 Q0 CACM-2669 56 7.17269375401 BM25
+Snippet: of the patterns by which programs refer to the information stored in the memory. Some recent experimental measurements on the
+Highlight words: of the the in the on the 
+6 Q0 CACM-2561 57 7.06504741366 BM25
+Snippet: described wherein the procedures are used with test data bases which are altered by deleting part of the data and
+Highlight words: the are are of the and 
+6 Q0 CACM-1411 58 7.05745485376 BM25
+Snippet: on the data, it was suggested that the initial estimate of the mean be obtained from a subset of the
+Highlight words: on the the of the of the 
+6 Q0 CACM-1709 59 6.97081051937 BM25
+Snippet: modification requiring only half the storage and computations of the conventional algorithm and this additional storage allows the analysis of
+Highlight words: the and of the and the of 
+6 Q0 CACM-3147 60 6.91647582163 BM25
+Snippet: in advance. The model views file and program design as a problem of systematically coordinating the configurations of datasets and
+Highlight words: in The and of the of and 
+6 Q0 CACM-2314 61 6.85171984092 BM25
+Snippet: aspects of programming systems are highlighted: good interactive facilities, programmable control structures, and sophisticated data communication mechanisms. Interactive features are
+Highlight words: aspects of are and are 
+6 Q0 CACM-1169 62 6.73340743161 BM25
+Snippet: the least negative increment of {Delta F} is performed. The process is iterated and stopped when the set of the
+Highlight words: the of The and the of the 
+6 Q0 CACM-2771 63 6.70091373004 BM25
+Snippet: are described. For practical designers, the technique has the advantage that operations are concise, readily composed, and are given in
+Highlight words: are the the are and are in 
+6 Q0 CACM-2188 64 6.6351571311 BM25
+Snippet: parameters of the model are functions of the capabilities of the graphics hardware and of the computational requirements of the
+Highlight words: of the are of the of the and of the of the 
+6 Q0 CACM-2286 65 6.63456833392 BM25
+Snippet: and data accuracy are required to achieve a desired final accuracy. The technique given generalize easily to the evaluation of
+Highlight words: and are The the of 
+6 Q0 CACM-1308 66 6.58267551106 BM25
+Snippet: computed by subprograms and used in dynamic analysis work. The proposed overall system is presented and experiments and demonstrations are
+Highlight words: and in The and and are 
+6 Q0 CACM-3091 67 6.55254404745 BM25
+Snippet: an increase in programming time required are objectively measurable from preprogramming specifications. The five programmer characteristics are experience-related and are
+Highlight words: in are The are and are 
+6 Q0 CACM-1030 68 6.5001077298 BM25
+Snippet: of a simulation system, methods are presented for simultaneously evaluating many functions for one set of values of the variables,and
+Highlight words: of are of of the and 
+6 Q0 CACM-1931 69 6.37830172877 BM25
+Snippet: and R. R. Smith is compared with straightforward use of I. in determinant evaluation. Computational results show the accuracy and
+Highlight words: and of in the and 
+6 Q0 CACM-2560 70 6.36849679096 BM25
+Snippet: the CPU and each of the storage devices are busy. Some numerical results are given which quantify the gains in
+Highlight words: the and of the are are the in 
+6 Q0 CACM-1591 71 6.35419795425 BM25
+Snippet: as academic education are discussed. In addition, the advantages of this type of system for computer programming and operation are
+Highlight words: are In the of of and are 
+6 Q0 CACM-2396 72 6.33102138994 BM25
+Snippet: and the addition of new ones. MUSE also has a repertoire of actions, which range from editing and reporting the
+Highlight words: and the of of and the 
+6 Q0 CACM-1552 73 6.28368353983 BM25
+Snippet: of selected sizes, control of shattering and garbage collection, and sharing of physical space between zones. The routines of the
+Highlight words: of of and and of The of the 
+6 Q0 CACM-1533 74 6.27300399683 BM25
+Snippet: the effects of changes in the executive system and in one of its compilers. Further applications of the model are
+Highlight words: the of in the and in of of the are 
+6 Q0 CACM-2105 75 6.20111911785 BM25
+Snippet: and specifies description is transmitted to a large scale computer. The design is simulated, and a graphic representation of the
+Highlight words: and The and of the 
+6 Q0 CACM-3025 76 6.15203473736 BM25
+Snippet: of five to one. The origin and evolution of the hardware, operating system, and languages are described in terms of
+Highlight words: of The and of the and are in of 
+6 Q0 CACM-2402 77 6.07819557054 BM25
+Snippet: that the cross-correlation between a model and the correct structure cannot be computed because of a fundamental incompleteness in the
+Highlight words: the and the not of in the 
+6 Q0 CACM-3137 78 6.06844075088 BM25
+Snippet: information system from the perspective of the end-user. The making evident the effect of various design and operating parameters on
+Highlight words: the of the The the of and on 
+6 Q0 CACM-1951 79 6.05883966036 BM25
+Snippet: The model used is elementary in the sense that many of the random variables that generally are of interest in
+Highlight words: The in the of the are of in 
+6 Q0 CACM-1366 80 6.04011981725 BM25
+Snippet: occur, particularly in training, implementation and computer time if an inappropriate language is chosenore and more computer simulation languages are
+Highlight words: particularly in and and are 
+6 Q0 CACM-1885 81 6.03808152857 BM25
+Snippet: on the IBM 360/67 computer. The system deals with the transformational model of syntax, along the lines of Chomsky's Aspects
+Highlight words: on the The the of the of Aspects 
+6 Q0 CACM-2217 82 6.01493094359 BM25
+Snippet: improve performance on problems in a specific domain and on problems in a variety of domains. Some variations of the
+Highlight words: on in and on in of of the 
+6 Q0 CACM-3058 83 6.00735805111 BM25
+Snippet: root of the number of records. Multiple level and variable size jump strategies are explored, appropriate applications are discussed and
+Highlight words: of the of and are are and 
+6 Q0 CACM-1750 84 5.99052720376 BM25
+Snippet: The general design of the hardware arrangement and the software components and functions of such a system are based on
+Highlight words: The of the and the and of are on 
+6 Q0 CACM-1441 85 5.9386366677 BM25
+Snippet: Gear are compared with classic Runge-Kutta, Kutta-Nystrom and Adams methods. Some of the newer one-step methods due to Butcher are
+Highlight words: are and of the are 
+6 Q0 CACM-2069 86 5.92324241054 BM25
+Snippet: Comments on a Paper by Wallace and Mason CACM April, 1970 Heess Jr., W. F. page-on-demand, demand paging, time-sharing multiprogramming,
+Highlight words: on and 
+6 Q0 CACM-1066 87 5.92109356603 BM25
+Snippet: industry are placing on such systems. Some of the components of such a system are: translation of problem statement in
+Highlight words: are on of the of are of in 
+6 Q0 CACM-0585 88 5.89941889188 BM25
+Snippet: of the basic principles of a multiprogramming system. The material that follows is a description of the evolution of the
+Highlight words: of the of The of the of the 
+6 Q0 CACM-3078 89 5.88167909621 BM25
+Snippet: related to the availability of a computer system constructed of unreliable processors, are presented in this paper. These results are
+Highlight words: the of of are in are 
+6 Q0 CACM-1912 90 5.86765091897 BM25
+Snippet: simulated. The purpose of the Simulator is to enable the user to evaluate the effectiveness of alternative appointment systems in
+Highlight words: The of the the the of in 
+6 Q0 CACM-2298 91 5.85951182868 BM25
+Snippet: for Research in Microprogramming and Emulation The development of the research project in microprogramming and emulation at State University of
+Highlight words: in and The of the in and of 
+6 Q0 CACM-1408 92 5.84547310906 BM25
+Snippet: improvements. In this paper the problem is attacked not by changing the drum, but rather by modifying the manner in
+Highlight words: In the not the the in 
+6 Q0 CACM-2555 93 5.83971049745 BM25
+Snippet: operations having O(10^(-p) + SUM{|Ei|}) error bounds, where p denotes the operation's precision and Ei denotes the error in the
+Highlight words: the and the in the 
+6 Q0 CACM-2003 94 5.83588103433 BM25
+Snippet: not learn a new language. The application to computer-aided circuit design is in particular examined; on the other hand, the
+Highlight words: not The in on the the 
+6 Q0 CACM-1261 95 5.81382380395 BM25
+Snippet: Modeling and Simulation of Digital Networks The simulation of digital networks on a digital computer provides the engineer with an
+Highlight words: and of The of on the 
+6 Q0 CACM-2967 96 5.79458834017 BM25
+Snippet: and triangles. The APLD functions were duplicated on the TX-2 computer at M.'s Lincoln Laboratory under the LEAP Language and
+Highlight words: and The on the the and 
+6 Q0 CACM-0671 97 5.73542348569 BM25
+Snippet: of the Telefile System of The Teleregister Corporation. Operation of the on-line and off-line programs are described and statistics are
+Highlight words: of the of The of the and are and are 
+6 Q0 CACM-3026 98 5.72270976125 BM25
+Snippet: The Evolution of the Sperry Univac 1100 Series: A His tory, Analysis, and Projection The 1100 series systems are Sperry
+Highlight words: The of the and The are 
+6 Q0 CACM-2624 99 5.6940026037 BM25
+Snippet: cannot support a virtual machine system. In this paper, model of a third-generation-like computer system is developed. Formal techniques are
+Highlight words: not In of are 
+6 Q0 CACM-0040 100 5.66843138549 BM25
+Snippet: are not practical with decimal instruction formats. On the other hand, decimal numbers are essential for communicating between man and
+Highlight words: are not On the are and 
+7 Q0 CACM-2967 1 9.29918659343 BM25
+Snippet: the hardware associative memory in three areas: (1) processing speed, (2) storage requirements, and (3) flexibility. The major problem areas
+Highlight words: the in areas and The areas 
+7 Q0 CACM-1811 2 8.98374754194 BM25
+Snippet: is by means of data in storage shared by all processors. A program for the determination of the distribution of
+Highlight words: by of in by for the of the of 
+7 Q0 CACM-2714 3 8.62388731877 BM25
+Snippet: Batcher's algorithm, which requires n/p + ((m+n)/2p)log2 m steps in the general case and km/p + ((k+1)/2)(m/p)log2 m in the
+Highlight words: which in the and in the 
+7 Q0 CACM-2973 4 8.60291240085 BM25
+Snippet: The best previous algorithm takes time O(n log n). The algorithms of this paper are shown to be optimal in
+Highlight words: The The algorithms of in 
+7 Q0 CACM-2664 5 8.47494760978 BM25
+Snippet: is new. Both approximately achieve the goal of reducing the processing time by a divisor which is the number of
+Highlight words: the of the by which the of 
+7 Q0 CACM-2175 6 8.42351074679 BM25
+Snippet: is given to the ordering of the subexpressions. In particular, subexpressions should be executed in order of decreasing memory and
+Highlight words: the of the In particular in of and 
+7 Q0 CACM-3075 7 8.38036594403 BM25
+Snippet: numbers in time O(k log n) using n 1 + 1/k processors, for k an arbitrary integer. The model of
+Highlight words: in using for The of 
+7 Q0 CACM-3156 8 8.18472819118 BM25
+Snippet: bound also can be achieved using only n$n/$log2n)) processors. The algorithm can be used to find the transitive closure of
+Highlight words: using The the of 
+7 Q0 CACM-2570 9 8.09283539909 BM25
+Snippet: shown that different algorithms suggested in the literature vary significantly in execution time and that the B-schedule of Coffman and
+Highlight words: algorithms in the in and the of and 
+7 Q0 CACM-2497 10 7.83777863926 BM25
+Snippet: require a special"read-interlock" instruction in the repertoire of the processors and a special "read-interlock" cycle in the repertoire of the
+Highlight words: in the of the and in the of the 
+7 Q0 CACM-2838 11 7.59321001995 BM25
+Snippet: and analyzed to determine sufficient conditions under which the list processor never needs to wait on the collector. These techniques
+Highlight words: and which the the These techniques 
+7 Q0 CACM-1613 12 7.30065353485 BM25
+Snippet: object code to take advantage of possible parallelism of operation. Most of the presently known compilation techniques are inadequate for
+Highlight words: of of of the techniques for 
+7 Q0 CACM-2723 13 6.69345080258 BM25
+Snippet: communication and interlocks. Complete procedures for garbage collection and for standard list processing primitives are presented and thoroughly explained. Particular
+Highlight words: and for and for and Particular 
+7 Q0 CACM-1846 14 6.64398610599 BM25
+Snippet: The systems are assumed to be described as a network of interconnected sequential processes. Briefly reviewed are the common techniques
+Highlight words: The of processes the techniques 
+7 Q0 CACM-1959 15 6.61318017656 BM25
+Snippet: which arise in scheduling the interrupt processing routines is presented. DPL, a programming language and supervisory system in which these
+Highlight words: which in the and in which these 
+7 Q0 CACM-1108 16 6.3143183409 BM25
+Snippet: for Tracking the Partially Illuminated Moon* A study of lunar tracking techniques and fabrication of a breadboard to assess the
+Highlight words: for the of techniques and of the 
+7 Q0 CACM-1601 17 6.27291961021 BM25
+Snippet: in any iteration are computationally independent, making the methods of interest in a parallel processing environment. Convergence is insured by
+Highlight words: in the of interest in by 
+7 Q0 CACM-2311 18 6.15401462999 BM25
+Snippet: of development projects and the technological world view of the system developer are examined. CACM July, 1972 Benjamin, R. I.
+Highlight words: of and the of the I 
+7 Q0 CACM-1409 19 6.14707845922 BM25
+Snippet: simple interface with the 340 Kc arithmetic unit, which results in an effective zero latency time and provides possibilities for
+Highlight words: the which in and for 
+7 Q0 CACM-3120 20 6.13196189755 BM25
+Snippet: events and processes. The work of the compiler-writer becomes easier both conceptually and in practice because he can forget these
+Highlight words: and processes The of the and in these 
+7 Q0 CACM-2865 21 6.11486047264 BM25
+Snippet: to the dining philosophers problem. CACM May, 1976 Owicki, S. Gries, D. structured multiprogramming correctness proofs, program verification, concurrent processes,
+Highlight words: the correctness concurrent processes 
+7 Q0 CACM-2342 22 5.88674821168 BM25
+Snippet: programs, and informal proofs of correctness have been given for these solutions. In this paper a system of parallel processes
+Highlight words: programs and of correctness for these In of processes 
+7 Q0 CACM-1747 23 5.80474910008 BM25
+Snippet: the criteria concern the reading of a time-of-day clock, the synchronization of parallel processes, protection in multiprogrammed systems, and the
+Highlight words: the the of the of processes in and the 
+7 Q0 CACM-0670 24 5.79335504681 BM25
+Snippet: by government agencies. Also pertinent is the propriety of data processing by banks for nonbank entities and particularly of the
+Highlight words: by the of by for and of the 
+7 Q0 CACM-2114 25 5.77596551732 BM25
+Snippet: of the frequently used file structures such as inverted files, index-sequential files, and multilist files are derived. Two algorithms which
+Highlight words: of the and algorithms which 
+7 Q0 CACM-2645 26 5.52960948007 BM25
+Snippet: of the present system, its relation to Knuth's work on the analysis of algorithms, and some of the directions for
+Highlight words: of the the of algorithms and of the for 
+7 Q0 CACM-1680 27 5.45727344657 BM25
+Snippet: full resources (system-cataloged programs) of the operating system. Language processors and compilers, simulation models, mathematical solution techniques, stored data, and
+Highlight words: programs of the and techniques and 
+7 Q0 CACM-2377 28 5.22345637391 BM25
+Snippet: identical to a call to a companion user procedure. The mechanisms of passing and referencing arguments are the same in
+Highlight words: The of passing and the in 
+7 Q0 CACM-0972 29 5.20930195589 BM25
+Snippet: components. The major emphasis of the paper is on the technique of using the definition of a finite-state automaton for
+Highlight words: The of the the of using the of for 
+7 Q0 CACM-1960 30 4.95377695672 BM25
+Snippet: The main features of the system include the ability given to any user to schedule his own parallel processes using
+Highlight words: The of the include the processes using 
+7 Q0 CACM-1262 31 4.88857327822 BM25
+Snippet: which are to be executed in parallel. The statements are DO TOGETHER and HOLD. These serve partly as brackets in
+Highlight words: which in The and These in 
+7 Q0 CACM-0950 32 4.83409353312 BM25
+Snippet: form. By this is meant that serial algorithms ought to be replaced by algorithm which consist of several subtasks which
+Highlight words: By algorithms by which of which 
+7 Q0 CACM-3059 33 4.74008945639 BM25
+Snippet: Processing WIthin Programs: Application to CPU:I/O and I/O:I/O Overlap Approximate queueing models for internal parallel processing by individual programs in
+Highlight words: Programs and for by programs in 
+7 Q0 CACM-2195 34 4.73264896899 BM25
+Snippet: and adequacy in the particular problem is achieved. The relation between the structure of the figure of merit and the
+Highlight words: and in the particular The the of the of and the 
+7 Q0 CACM-0046 35 4.72991396103 BM25
+Snippet: for successful concurrent execution of several independent problem programs are discussed. These requirements are met in the STRETCH system by
+Highlight words: for concurrent of programs These in the by 
+7 Q0 CACM-2202 36 4.70118888114 BM25
+Snippet: the read-only storage. In particular, the processor developed in this paper stresses the simultaneous operation (within the microinstruction) of the
+Highlight words: the In particular the in the the of the 
+7 Q0 CACM-2289 37 4.67179348458 BM25
+Snippet: of algorithms that exploit the possibilities for parallelism, especially for problems whose solutions appear to be inherently serial. In particular,
+Highlight words: of algorithms the for for In particular 
+7 Q0 CACM-0082 38 4.64209207377 BM25
+Snippet: in Language Processors Substitution of computer-oriented symbols for programmer-oriented symbols in language processors is examined and a feasible method for
+Highlight words: in of for in and for 
+7 Q0 CACM-1665 39 4.62747735134 BM25
+Snippet: and MAD are among the many which have been produced. The techniques employed are independent of the nature of the
+Highlight words: and the which The techniques of the of the 
+7 Q0 CACM-1569 40 4.58938571648 BM25
+Snippet: for implementing the productions of a context-free phrase structure grammar in a PL/I procedure whose structure and statements parallel the
+Highlight words: for the of in and the 
+7 Q0 CACM-1742 41 4.5661019031 BM25
+Snippet: On the Design of Display Processors The flexibility and power needed in the data channel for a computer display are
+Highlight words: the of The and in the for 
+7 Q0 CACM-2896 42 4.55960565869 BM25
+Snippet: Difficulties with proving such parallel programs correct are discussed. CACM December, 1977 Gries, D. garbage collection, multiprocessing, program correctness for
+Highlight words: programs correctness for 
+7 Q0 CACM-2246 43 4.51943268409 BM25
+Snippet: this language, often using a macro processor, into the assembly language of each desired object machine. The design of the
+Highlight words: using the of The of the 
+7 Q0 CACM-2895 44 4.49269938085 BM25
+Snippet: the in tended behavior of communicating parallel processes is described. The specifications are constrain ts on the order in which
+Highlight words: the in of processes The the in which 
+7 Q0 CACM-1625 45 4.47585427347 BM25
+Snippet: program and the knowledge obtained by a processor, without any understanding of what the program is supposed to do. These
+Highlight words: and the by understanding of the These 
+7 Q0 CACM-1341 46 4.46786184359 BM25
+Snippet: systems which learn. In this essay some of these questions are posed, and the general attitude we must take in
+Highlight words: which In of these and the in 
+7 Q0 CACM-1367 47 4.45180435515 BM25
+Snippet: Character Structure and Character Parity Sense for Parallel-by-Bit Data Communication in ASCII* (Proposed American Standard) CACM September, 1966 CA660912 JB
+Highlight words: and for in 
+7 Q0 CACM-3175 48 4.39000484965 BM25
+Snippet: These probabilities are updated in parallel for all code letters, using joint letter probabilities. Iterating the updating scheme results in
+Highlight words: These in for using the in 
+7 Q0 CACM-1988 49 4.353436919 BM25
+Snippet: question as "Can one do bootstrapping using a meta-compiler whose metaphase is interpretive?" In addition an algorithm is presented for
+Highlight words: using In for 
+7 Q0 CACM-2785 50 4.35235798923 BM25
+Snippet: of his algorithm in terms of 64-word vectors. This paper describes the characteristics, goals and philosophy of the language, and
+Highlight words: of in of the and of the and 
+7 Q0 CACM-2266 51 4.34433834085 BM25
+Snippet: method which simultaneously approximates all zeros of a polynomial with only real zeros. The algorithm, which is conceptually suitable for
+Highlight words: which of The which for 
+7 Q0 CACM-2166 52 4.33186088444 BM25
+Snippet: future directions for research using these systems are briefly outlined. To illustrate the relative simplicity of the algorithm required in
+Highlight words: for using these the of the in 
+7 Q0 CACM-2469 53 4.284586667 BM25
+Snippet: operation. This usefulness is emphasized by the design of a speed independent processor from modules developed in the investigation of
+Highlight words: by the of in the of 
+7 Q0 CACM-2918 54 4.25690452167 BM25
+Snippet: Multiprocessor Memory Organization and Memory Interference The structure of shared memory in a multiprocessor computer system is examined with particular
+Highlight words: and The of in particular 
+7 Q0 CACM-2433 55 4.23062357748 BM25
+Snippet: features which could be expected to influence language (and compiler) design. The implications of these features for data layout and
+Highlight words: which and The of these for and 
+7 Q0 CACM-2898 56 4.22663278225 BM25
+Snippet: facilities for specifying a task in a nonprocedural manner. In general, a program specified in this way will allow concurrent
+Highlight words: for in In in concurrent 
+7 Q0 CACM-0320 57 4.21921687943 BM25
+Snippet: required in procedures, operations, systems and circuits. A set of rules for writing and using logic tables is explained by
+Highlight words: in and of for and using by 
+7 Q0 CACM-1684 58 4.21897134109 BM25
+Snippet: on these rules. In this paper it is suggested that these rules are unsatisfactory and that the important aspect of
+Highlight words: these In these and the of 
+7 Q0 CACM-1788 59 4.20466581344 BM25
+Snippet: of which a programming notation may be described. A supporting discussion of the logical and his torical role of the
+Highlight words: of which of the and of the 
+7 Q0 CACM-2700 60 4.19208753254 BM25
+Snippet: that the assumption that a statement is indivisible can be relaxed and still preserve properties such as halting. Thus correctness
+Highlight words: the and correctness 
+7 Q0 CACM-2685 61 4.18409689073 BM25
+Snippet: The Parallel Execution of DO Loops Methods are developed for the parallel execution of different iterations of a DO loop.
+Highlight words: The of for the of of 
+7 Q0 CACM-1805 62 4.17541732282 BM25
+Snippet: concurrently in processor memory and proceeding, each using the same central processor unit (CPU) and input-output (I/O) channels. These programs
+Highlight words: in and using the and These programs 
+7 Q0 CACM-3194 63 4.1750201075 BM25
+Snippet: that are normally recognized as different by native speakers of a particular language. Parallels between these problems and those of
+Highlight words: by of particular these and of 
+7 Q0 CACM-0303 64 4.16886828496 BM25
+Snippet: in work for the University of Pennsylvania's Office of computer Research and Education. The work is jointly supported by the
+Highlight words: in for the of of and The by the 
+7 Q0 CACM-1589 65 4.16348520302 BM25
+Snippet: which provides basic facilities for graphical and numeric input and display, online and off line program preparation and storage, and
+Highlight words: which for and and and and and 
+7 Q0 CACM-1928 66 4.15812566609 BM25
+Snippet: model, the elimination of manual processes in achieving exclusive simulation of activity, an event-scheduling technique which does not deteriorate in
+Highlight words: the of processes in of which in 
+7 Q0 CACM-1158 67 4.1464259229 BM25
+Snippet: Structures for Parallel Processing Constructs for organizing and explicating parallel program segments are discussed as extensions to ALGOL 60. The
+Highlight words: for for and The 
+7 Q0 CACM-2298 68 4.13139741744 BM25
+Snippet: to the others considered; and the organization and definition of goals for each group in the project. Each of these
+Highlight words: the and the and of for in the of these 
+7 Q0 CACM-2401 69 4.11573775942 BM25
+Snippet: a matrix, and a hardware implementation of the algorithm using large scale integrated technology is envisioned. The principal features of
+Highlight words: and of the using The of 
+7 Q0 CACM-1536 70 4.11511796284 BM25
+Snippet: compute the derivatives of a function, without the need for deriving and programming the evaluation of explicit formulas for the
+Highlight words: the of the for and the of for the 
+7 Q0 CACM-1825 71 4.07379705725 BM25
+Snippet: relating these individual processors are satisfied, then an LR(k) processor for the entire grammar can be constructed for them. Using
+Highlight words: these for the for Using 
+7 Q0 CACM-0141 72 4.06091853176 BM25
+Snippet: 
+Highlight words: 
+7 Q0 CACM-0392 73 4.05103377252 BM25
+Snippet: Comment on A Paper on Parallel Processing CACM February, 1961 Nekora, M. R. CA610206 JB March 17, 1978 12:58 AM
+Highlight words: AM 
+7 Q0 CACM-1302 74 4.05103377252 BM25
+Snippet: Parallel Signaling Speeds for Data Transmission (Proposed American Stand ard) CACM March, 1965 CA650305 JB March 7, 1978 6:08 PM
+Highlight words: for 
+7 Q0 CACM-1530 75 4.03747754338 BM25
+Snippet: Macro Processor A general purpose macro processor called ML/I is described. ML/I has been implemented on the PDP-7 and I.
+Highlight words: the and I 
+7 Q0 CACM-1008 76 4.03147204563 BM25
+Snippet: it was developed for the 1960 meeting of the Federation of American Societies for Experimental Biology (FASEB) is described. The
+Highlight words: for the of the of for The 
+7 Q0 CACM-2128 77 4.029830638 BM25
+Snippet: Allocation Method for Time-Sharing A scheduling algorithm is proposed which is intended to minimize changes of tasks on processors and
+Highlight words: for which of and 
+7 Q0 CACM-1828 78 4.02237288535 BM25
+Snippet: hierarchy of directories for an on-line file system. Methods for synchronization of processes are examined; their validity is discussed and
+Highlight words: of for for of processes and 
+7 Q0 CACM-1468 79 4.0145330454 BM25
+Snippet: Pictures A descriptive scheme for classes of pictures based on labeling techniques using parallel processing algorithms was proposed by the
+Highlight words: for of techniques using algorithms by the 
+7 Q0 CACM-1671 80 4.01054111575 BM25
+Snippet: Tester The design and implementation of a system to alleviate the problem of rule evaluation for the linguist in the
+Highlight words: The and of the of for the in the 
+7 Q0 CACM-2938 81 3.99919630819 BM25
+Snippet: reasoning in program validation: sequential programming, multiprogramming, and real-time programming. By adhering to a strict programming discipline and by using
+Highlight words: in and By and by using 
+7 Q0 CACM-1325 82 3.99854883296 BM25
+Snippet: the problem of the automatic diagnosis of electrocardiograms. Current attempts by the authors to extend the diagnostic capabilities of the
+Highlight words: the of the of by the the of the 
+7 Q0 CACM-1795 83 3.99834800545 BM25
+Snippet: Optimal Code for Serial and Parallel Computation CACM December, 1969 Fateman, R. J. code optimization, sequencing of operations, detection of
+Highlight words: for and of of 
+7 Q0 CACM-2514 84 3.99534824602 BM25
+Snippet: interactively design and test array grammars. The user can control the rule selection procedure in a derivation or parse, using
+Highlight words: and The the in using 
+7 Q0 CACM-2660 85 3.98906001299 BM25
+Snippet: CACM April, 1974 Simmons, G. C. parallelism, polynomial root finding, real zeros 5.15 CA740410 JB February 1, 1978 10:36 AM
+Highlight words: AM 
+7 Q0 CACM-1488 86 3.98108113662 BM25
+Snippet: tables in FORTRAN or COBOL is developed and presented. With inputs in standard form, as defined in the paper, the
+Highlight words: in and in in the the 
+7 Q0 CACM-2557 87 3.97073888984 BM25
+Snippet: as parallel computers is discussed. Algorithms are presented which properly parse such matrix sequences subject to the constraints of the
+Highlight words: Algorithms which the of the 
+7 Q0 CACM-2536 88 3.96296769277 BM25
+Snippet: the main processor-minicomputer link, the hardware-software implementation, the effect of the main processor operating system, and an assessment of the
+Highlight words: the the the of the and of the 
+7 Q0 CACM-0963 89 3.96124049856 BM25
+Snippet: of the input-output units upon the overall speed of the system. Equations are derived which permit the determination of these
+Highlight words: of the the of the which the of these 
+7 Q0 CACM-2989 90 3.95754477838 BM25
+Snippet: but non-existing instructions. Other problems are briefly discussed. Experimental results are presented, obtained by analyzing 41 programs running on the
+Highlight words: by programs the 
+7 Q0 CACM-2386 91 3.95142593233 BM25
+Snippet: Dynamic Microprogramming: Processor Organization and Programming (Corrigendum) CACM February, 1972 Tucker, A. B. CA720205 JB January 31, 1978 4:21 PM
+Highlight words: and 
+7 Q0 CACM-0482 92 3.94651995356 BM25
+Snippet: TALL-A List Processor for the Philco 200 Computer CACM September, 1962 Feldman, J. CA620910 JB March 17, 1978 7:31 PM
+Highlight words: for the 
+7 Q0 CACM-1852 93 3.9457862994 BM25
+Snippet: algorithm for a macro processor which has been used as the base of an implementation, by bootstrapping, of processors for
+Highlight words: for which the of by of for 
+7 Q0 CACM-2162 94 3.93004547467 BM25
+Snippet: for dynamic storage allocation of 2^n-word blocks, which requires a minimized amount of memory for bookkeeping purposes, is described. The
+Highlight words: for of which of for The 
+7 Q0 CACM-1554 95 3.92500101766 BM25
+Snippet: stereoscopic movies of the three-dimensional parallel and perspective projections of four-dimensional hyperobjects rotating in four-dimensional space. The observed projections and
+Highlight words: of the and of in The and 
+7 Q0 CACM-1844 96 3.91976488423 BM25
+Snippet: dependent on both the size and power of the machines used and the computation requirements of the particular mix of
+Highlight words: the and of the and the of the particular of 
+7 Q0 CACM-3119 97 3.90811523393 BM25
+Snippet: of multiple processor systems. Issues considered include the impact of CPU service disciplines and distributions, level of multiprogramming, multitasking, and
+Highlight words: of include the of and of and 
+7 Q0 CACM-1160 98 3.89380491929 BM25
+Snippet: which the user must analyze in order to verify any questionable areas of the translation. The translation processor consists of
+Highlight words: which the in areas of the The of 
+7 Q0 CACM-0406 99 3.88859328684 BM25
+Snippet: The Use of Threaded Lists in Constructing a Combined ALGOL and Machine-Like Assembly Processor CACM January, 1961 Evans Jr., A.
+Highlight words: The of in and 
+7 Q0 CACM-1288 100 3.86730390782 BM25
+Snippet: Presented in this paper are the highlights of CLP, a teaching language which has been employed at Cornell University and
+Highlight words: in the of which and 

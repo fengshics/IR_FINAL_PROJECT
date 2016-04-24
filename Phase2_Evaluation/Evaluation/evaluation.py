@@ -51,15 +51,17 @@ def calculateMeasure(fileName, queryResults, summary):
     P20 = []
     fw = open(fileName, 'w')
     for queryID in queryResults:
-        #fw.write('Query' + queryID + '\n')
         psum = 0
         rr = 0
         results = queryResults[queryID]
         rank = 0
         relevantNumber = 0
         relevantDocuments = []
+        # exclude queries which don't have relevant documents
         if queryID in relevanceJudgements:
             relevantDocuments = relevanceJudgements[queryID]
+        else:
+            continue
         for document in results:
             rank += 1
             isRelevant = 0

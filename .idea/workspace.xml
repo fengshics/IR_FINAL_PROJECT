@@ -2,34 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6773bd7e-b77e-4412-8034-9d746dd01608" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/BM25_with_rel_stopping.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/Combine_query_expansion_stopping_BM25_Ranking_result/BM25_with_expansion_prf_stopped.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/PRF_Expansion_Stopping_BM25.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/Stopping_BM25.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/builder/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/builder/_html5lib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/builder/_htmlparser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/builder/_lxml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/dammit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/diagnose.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/element.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/test_builder_registry.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/test_docs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/test_html5lib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/test_htmlparser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/test_lxml.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/test_soup.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/bs4/tests/test_tree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/cacm_query_tokens_stopped.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/document_length_stopped.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/expanded_queries_by_prf_stopped.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/indexer_stopped.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/queryTokenize_stopped.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/query_expansion_pseudo_rf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Phase2_Evalueation/Combine_query_expansion_stopping_RUN/unigram_index_stopped.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/evaluation.py" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/evaluation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_Ranking_With_Rel.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_Ranking_With_Rel.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_expansion_prf.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_expansion_prf.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_expansion_prf_stopped.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_expansion_prf_stopped.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_expansion_thesauri.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_expansion_thesauri.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_rel_stopping.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_BM25_with_rel_stopping.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_Lucene.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_Lucene.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_tf-idf.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/evaluation_tf-idf.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/summary.txt" afterPath="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/Evaluation Results/summary.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IR_FINAL_PROJECT.iws" />
@@ -57,8 +38,8 @@
       <file leaf-file-name="snippet&amp;highlighting.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Extra Credit_Snippet and Highlighting/snippet&amp;highlighting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1011" max-vertical-offset="2475">
-              <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1476" max-vertical-offset="2475">
+              <caret line="138" column="68" selection-start-line="138" selection-start-column="68" selection-end-line="138" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -67,8 +48,8 @@
       <file leaf-file-name="evaluation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Phase2_Evaluation/Evaluation/evaluation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47930282" vertical-offset="1175" max-vertical-offset="1830">
-              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+            <state vertical-scroll-proportion="2.1723237" vertical-offset="38" max-vertical-offset="1860">
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="30" />
               <folding>
                 <element signature="e#23#32#0" expanded="true" />
               </folding>
@@ -286,7 +267,9 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase2_Evaluation/Evaluation/evaluation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -441,8 +424,8 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.evaluation (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.evaluation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.snippet&amp;highlighting" />
+        <item index="1" class="java.lang.String" itemvalue="Python.snippet&amp;highlighting" />
+        <item index="2" class="java.lang.String" itemvalue="Python.evaluation" />
         <item index="3" class="java.lang.String" itemvalue="Python.tf-idf" />
         <item index="4" class="java.lang.String" itemvalue="Python.BM25" />
       </list>
@@ -468,9 +451,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39824304" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39824304" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28696924" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28696924" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -511,7 +494,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -646,16 +629,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Extra Credit_Snippet and Highlighting/snippet&amp;highlighting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1011" max-vertical-offset="2475">
-          <caret line="84" column="30" selection-start-line="84" selection-start-column="30" selection-end-line="84" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1476" max-vertical-offset="2475">
+          <caret line="138" column="68" selection-start-line="138" selection-start-column="68" selection-end-line="138" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Phase2_Evaluation/Evaluation/evaluation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47930282" vertical-offset="1175" max-vertical-offset="1830">
-          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        <state vertical-scroll-proportion="2.1723237" vertical-offset="38" max-vertical-offset="1860">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="30" />
           <folding>
             <element signature="e#23#32#0" expanded="true" />
           </folding>
