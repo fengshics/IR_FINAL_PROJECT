@@ -87,10 +87,10 @@ def calculateMeasure(fileName, queryResults, summary):
         else:
             AP.append(0.0)
         RR.append(rr)
-    summary.write('MAP = ' + str(math.fsum(AP) / len(AP)) + '\n')
-    summary.write('MRR = ' + str(math.fsum(RR) / len(RR)) + '\n')
-    summary.write('Mean P@5 = ' + str(math.fsum(P5) / len(P5)) + '\n')
-    summary.write('Mean P@20 = ' + str(math.fsum(P20) / len(P20)) + '\n')
+    summary.write('MAP = ' + str("{:.3f}".format(math.fsum(AP) / len(AP))) + '\n')
+    summary.write('MRR = ' + str("{:.3f}".format(math.fsum(RR) / len(RR))) + '\n')
+    summary.write('Mean P@5 = ' + str("{:.3f}".format(math.fsum(P5) / len(P5))) + '\n')
+    summary.write('Mean P@20 = ' + str("{:.3f}".format(math.fsum(P20) / len(P20))) + '\n')
     fw.close()
 
 def evaluation(path):
